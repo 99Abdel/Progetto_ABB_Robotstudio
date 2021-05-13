@@ -1,0 +1,1865 @@
+2700 0 20 0           
+15 SolidWorks 2020 14 ACIS 27.0.2 NT 24 Thu May 13 16:44:46 2021 
+1 9.9999999999999995e-07 1e-10 
+T @52 N8XCZKV8YKG76ZBUNE7HQP5SQ2G4GPQ3BDDMQJNEFB9XFE5FBAQ4 
+-0 body $20 -1 -1 $-1 0 $21 $-1 $-1 F #
+-1 body $22 -1 -1 $-1 0 $23 $-1 $-1 F #
+-2 body $24 -1 -1 $-1 0 $25 $-1 $-1 F #
+-3 body $26 -1 -1 $-1 0 $27 $-1 $-1 F #
+-4 body $28 -1 -1 $-1 0 $29 $-1 $-1 F #
+-5 body $30 -1 -1 $-1 0 $31 $-1 $-1 F #
+-6 body $32 -1 -1 $-1 0 $33 $-1 $-1 F #
+-7 body $34 -1 -1 $-1 0 $35 $-1 $-1 F #
+-8 body $36 -1 -1 $-1 0 $37 $-1 $-1 F #
+-9 body $38 -1 -1 $-1 0 $39 $-1 $-1 F #
+-10 body $40 -1 -1 $-1 0 $41 $-1 $-1 F #
+-11 body $42 -1 -1 $-1 0 $43 $-1 $-1 F #
+-12 body $44 -1 -1 $-1 0 $45 $-1 $-1 F #
+-13 body $46 -1 -1 $-1 0 $47 $-1 $-1 F #
+-14 body $48 -1 -1 $-1 0 $49 $-1 $-1 F #
+-15 body $50 -1 -1 $-1 0 $51 $-1 $-1 F #
+-16 body $52 -1 -1 $-1 0 $53 $-1 $-1 F #
+-17 body $54 -1 -1 $-1 0 $55 $-1 $-1 F #
+-18 body $56 -1 -1 $-1 0 $57 $-1 $-1 F #
+-19 body $58 -1 -1 $-1 0 $59 $-1 $-1 F #
+-20 name_attrib-gen-attrib $-1 -1 $-1 $-1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet5 #
+-21 lump $60 -1 -1 $-1 $-1 $61 $0 F #
+-22 name_attrib-gen-attrib $-1 -1 $-1 $-1 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet5 #
+-23 lump $62 -1 -1 $-1 $-1 $63 $1 F #
+-24 name_attrib-gen-attrib $-1 -1 $-1 $-1 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet5 #
+-25 lump $64 -1 -1 $-1 $-1 $65 $2 F #
+-26 name_attrib-gen-attrib $-1 -1 $-1 $-1 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-27 lump $66 -1 -1 $-1 $-1 $67 $3 F #
+-28 name_attrib-gen-attrib $-1 -1 $-1 $-1 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-29 lump $68 -1 -1 $-1 $-1 $69 $4 F #
+-30 name_attrib-gen-attrib $-1 -1 $-1 $-1 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-31 lump $70 -1 -1 $-1 $-1 $71 $5 F #
+-32 name_attrib-gen-attrib $-1 -1 $-1 $-1 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-33 lump $72 -1 -1 $-1 $-1 $73 $6 F #
+-34 name_attrib-gen-attrib $-1 -1 $-1 $-1 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-35 lump $74 -1 -1 $-1 $-1 $75 $7 F #
+-36 name_attrib-gen-attrib $-1 -1 $-1 $-1 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet1 #
+-37 lump $76 -1 -1 $-1 $-1 $77 $8 F #
+-38 name_attrib-gen-attrib $-1 -1 $-1 $-1 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet4 #
+-39 lump $78 -1 -1 $-1 $-1 $79 $9 F #
+-40 name_attrib-gen-attrib $-1 -1 $-1 $-1 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet4 #
+-41 lump $80 -1 -1 $-1 $-1 $81 $10 F #
+-42 name_attrib-gen-attrib $-1 -1 $-1 $-1 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet4 #
+-43 lump $82 -1 -1 $-1 $-1 $83 $11 F #
+-44 name_attrib-gen-attrib $-1 -1 $-1 $-1 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet2 #
+-45 lump $84 -1 -1 $-1 $-1 $85 $12 F #
+-46 name_attrib-gen-attrib $-1 -1 $-1 $-1 $13 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet2 #
+-47 lump $86 -1 -1 $-1 $-1 $87 $13 F #
+-48 name_attrib-gen-attrib $-1 -1 $-1 $-1 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet2 #
+-49 lump $88 -1 -1 $-1 $-1 $89 $14 F #
+-50 name_attrib-gen-attrib $-1 -1 $-1 $-1 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet2 #
+-51 lump $90 -1 -1 $-1 $-1 $91 $15 F #
+-52 name_attrib-gen-attrib $-1 -1 $-1 $-1 $16 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet3 #
+-53 lump $92 -1 -1 $-1 $-1 $93 $16 F #
+-54 name_attrib-gen-attrib $-1 -1 $-1 $-1 $17 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet3 #
+-55 lump $94 -1 -1 $-1 $-1 $95 $17 F #
+-56 name_attrib-gen-attrib $-1 -1 $-1 $-1 $18 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet3 #
+-57 lump $96 -1 -1 $-1 $-1 $97 $18 F #
+-58 name_attrib-gen-attrib $-1 -1 $-1 $-1 $19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 europalet3 #
+-59 lump $98 -1 -1 $-1 $-1 $99 $19 F #
+-60 rgb_color-st-attrib $-1 -1 $-1 $-1 $21 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-61 shell $-1 -1 -1 $-1 $-1 $-1 $100 $-1 $21 F #
+-62 rgb_color-st-attrib $-1 -1 $-1 $-1 $23 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-63 shell $-1 -1 -1 $-1 $-1 $-1 $101 $-1 $23 F #
+-64 rgb_color-st-attrib $-1 -1 $-1 $-1 $25 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-65 shell $-1 -1 -1 $-1 $-1 $-1 $102 $-1 $25 F #
+-66 rgb_color-st-attrib $-1 -1 $-1 $-1 $27 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-67 shell $-1 -1 -1 $-1 $-1 $-1 $103 $-1 $27 F #
+-68 rgb_color-st-attrib $-1 -1 $-1 $-1 $29 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-69 shell $-1 -1 -1 $-1 $-1 $-1 $104 $-1 $29 F #
+-70 rgb_color-st-attrib $-1 -1 $-1 $-1 $31 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-71 shell $-1 -1 -1 $-1 $-1 $-1 $105 $-1 $31 F #
+-72 rgb_color-st-attrib $-1 -1 $-1 $-1 $33 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-73 shell $-1 -1 -1 $-1 $-1 $-1 $106 $-1 $33 F #
+-74 rgb_color-st-attrib $-1 -1 $-1 $-1 $35 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-75 shell $-1 -1 -1 $-1 $-1 $-1 $107 $-1 $35 F #
+-76 rgb_color-st-attrib $-1 -1 $-1 $-1 $37 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-77 shell $-1 -1 -1 $-1 $-1 $-1 $108 $-1 $37 F #
+-78 rgb_color-st-attrib $-1 -1 $-1 $-1 $39 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-79 shell $-1 -1 -1 $-1 $-1 $-1 $109 $-1 $39 F #
+-80 rgb_color-st-attrib $-1 -1 $-1 $-1 $41 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-81 shell $-1 -1 -1 $-1 $-1 $-1 $110 $-1 $41 F #
+-82 rgb_color-st-attrib $-1 -1 $-1 $-1 $43 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-83 shell $-1 -1 -1 $-1 $-1 $-1 $111 $-1 $43 F #
+-84 rgb_color-st-attrib $-1 -1 $-1 $-1 $45 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-85 shell $-1 -1 -1 $-1 $-1 $-1 $112 $-1 $45 F #
+-86 rgb_color-st-attrib $-1 -1 $-1 $-1 $47 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-87 shell $-1 -1 -1 $-1 $-1 $-1 $113 $-1 $47 F #
+-88 rgb_color-st-attrib $-1 -1 $-1 $-1 $49 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-89 shell $-1 -1 -1 $-1 $-1 $-1 $114 $-1 $49 F #
+-90 rgb_color-st-attrib $-1 -1 $-1 $-1 $51 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-91 shell $-1 -1 -1 $-1 $-1 $-1 $115 $-1 $51 F #
+-92 rgb_color-st-attrib $-1 -1 $-1 $-1 $53 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-93 shell $-1 -1 -1 $-1 $-1 $-1 $116 $-1 $53 F #
+-94 rgb_color-st-attrib $-1 -1 $-1 $-1 $55 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-95 shell $-1 -1 -1 $-1 $-1 $-1 $117 $-1 $55 F #
+-96 rgb_color-st-attrib $-1 -1 $-1 $-1 $57 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-97 shell $-1 -1 -1 $-1 $-1 $-1 $118 $-1 $57 F #
+-98 rgb_color-st-attrib $-1 -1 $-1 $-1 $59 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.90196078431372551 0.80784313725490198 0.50588235294117645 #
+-99 shell $-1 -1 -1 $-1 $-1 $-1 $119 $-1 $59 F #
+-100 face $120 -1 -1 $-1 $121 $122 $61 $-1 $123 reversed single F F #
+-101 face $124 -1 -1 $-1 $125 $126 $63 $-1 $127 reversed single F F #
+-102 face $128 -1 -1 $-1 $129 $130 $65 $-1 $131 reversed single F F #
+-103 face $132 -1 -1 $-1 $133 $134 $67 $-1 $135 reversed single F F #
+-104 face $136 -1 -1 $-1 $137 $138 $69 $-1 $139 reversed single F F #
+-105 face $140 -1 -1 $-1 $141 $142 $71 $-1 $143 reversed single F F #
+-106 face $144 -1 -1 $-1 $145 $146 $73 $-1 $147 reversed single F F #
+-107 face $148 -1 -1 $-1 $149 $150 $75 $-1 $151 reversed single F F #
+-108 face $152 -1 -1 $-1 $153 $154 $77 $-1 $155 reversed single F F #
+-109 face $156 -1 -1 $-1 $157 $158 $79 $-1 $159 reversed single F F #
+-110 face $160 -1 -1 $-1 $161 $162 $81 $-1 $163 reversed single F F #
+-111 face $164 -1 -1 $-1 $165 $166 $83 $-1 $167 reversed single F F #
+-112 face $168 -1 -1 $-1 $169 $170 $85 $-1 $171 reversed single F F #
+-113 face $172 -1 -1 $-1 $173 $174 $87 $-1 $175 reversed single F F #
+-114 face $176 -1 -1 $-1 $177 $178 $89 $-1 $179 reversed single F F #
+-115 face $180 -1 -1 $-1 $181 $182 $91 $-1 $183 reversed single F F #
+-116 face $184 -1 -1 $-1 $185 $186 $93 $-1 $187 reversed single F F #
+-117 face $188 -1 -1 $-1 $189 $190 $95 $-1 $191 reversed single F F #
+-118 face $192 -1 -1 $-1 $193 $194 $97 $-1 $195 reversed single F F #
+-119 face $196 -1 -1 $-1 $197 $198 $99 $-1 $199 reversed single F F #
+-120 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $100 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-121 face $200 -1 -1 $-1 $201 $202 $61 $-1 $203 reversed single F F #
+-122 loop $-1 -1 -1 $-1 $-1 $204 $100 F unknown #
+-123 plane-surface $-1 -1 -1 $-1 72.499999999999972 22 400.00000000000006 -1 0 0 0 0 1000 forward_v I I I I #
+-124 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $101 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-125 face $205 -1 -1 $-1 $206 $207 $63 $-1 $208 reversed single F F #
+-126 loop $-1 -1 -1 $-1 $-1 $209 $101 F unknown #
+-127 plane-surface $-1 -1 -1 $-1 -982.5 22 400.00000000000011 -1 0 0 0 0 1000 forward_v I I I I #
+-128 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $102 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-129 face $210 -1 -1 $-1 $211 $212 $65 $-1 $213 reversed single F F #
+-130 loop $-1 -1 -1 $-1 $-1 $214 $102 F unknown #
+-131 plane-surface $-1 -1 -1 $-1 -455.00000000000011 22 400 -1 0 0 0 0 1000 forward_v I I I I #
+-132 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $103 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-133 face $215 -1 -1 $-1 $216 $217 $67 $-1 $218 reversed single F F #
+-134 loop $-1 -1 -1 $-1 $-1 $219 $103 F unknown #
+-135 plane-surface $-1 -1 -1 $-1 -72.500000000000028 0 -299.99999999999994 0 0 -1 -1000 0 0 forward_v I I I I #
+-136 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $104 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-137 face $220 -1 -1 $-1 $221 $222 $69 $-1 $223 reversed single F F #
+-138 loop $-1 -1 -1 $-1 $-1 $224 $104 F unknown #
+-139 plane-surface $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -299.99999999999994 0 0 -1 -1000 0 0 forward_v I I I I #
+-140 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $105 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-141 face $225 -1 -1 $-1 $226 $227 $71 $-1 $228 reversed single F F #
+-142 loop $-1 -1 -1 $-1 $-1 $229 $105 F unknown #
+-143 plane-surface $-1 -1 -1 $-1 -455.00000000000011 0 -400.00000000000006 0 0 1 1000 0 0 forward_v I I I I #
+-144 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $106 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-145 face $230 -1 -1 $-1 $231 $232 $73 $-1 $233 reversed single F F #
+-146 loop $-1 -1 -1 $-1 $-1 $234 $106 F unknown #
+-147 plane-surface $-1 -1 -1 $-1 -982.49999999999909 0 300.00000000000352 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-148 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $107 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-149 face $235 -1 -1 $-1 $236 $237 $75 $-1 $238 reversed single F F #
+-150 loop $-1 -1 -1 $-1 $-1 $239 $107 F unknown #
+-151 plane-surface $-1 -1 -1 $-1 -454.99999999999909 0 300.00000000000153 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-152 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $108 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-153 face $240 -1 -1 $-1 $241 $242 $77 $-1 $243 reversed single F F #
+-154 loop $-1 -1 -1 $-1 $-1 $244 $108 F unknown #
+-155 plane-surface $-1 -1 -1 $-1 72.500000000001009 0 299.99999999999966 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-156 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $109 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-157 face $245 -1 -1 $-1 $246 $247 $79 $-1 $248 reversed single F F #
+-158 loop $-1 -1 -1 $-1 $-1 $249 $109 F unknown #
+-159 plane-surface $-1 -1 -1 $-1 -455.00000000000011 0 72.5 -1 0 0 0 0 1000 forward_v I I I I #
+-160 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $110 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-161 face $250 -1 -1 $-1 $251 $252 $81 $-1 $253 reversed single F F #
+-162 loop $-1 -1 -1 $-1 $-1 $254 $110 F unknown #
+-163 plane-surface $-1 -1 -1 $-1 72.499999999999986 0 72.500000000000242 -1 0 0 0 0 1000 forward_v I I I I #
+-164 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $111 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-165 face $255 -1 -1 $-1 $256 $257 $83 $-1 $258 reversed single F F #
+-166 loop $-1 -1 -1 $-1 $-1 $259 $111 F unknown #
+-167 plane-surface $-1 -1 -1 $-1 -982.5 0 72.499999999996064 -1 0 0 0 0 1000 forward_v I I I I #
+-168 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $112 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-169 face $260 -1 -1 $-1 $261 $262 $85 $-1 $263 reversed single F F #
+-170 loop $-1 -1 -1 $-1 $-1 $264 $112 F unknown #
+-171 plane-surface $-1 -1 -1 $-1 72.500000000000341 44 113.74999999999983 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-172 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $113 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-173 face $265 -1 -1 $-1 $266 $267 $87 $-1 $268 reversed single F F #
+-174 loop $-1 -1 -1 $-1 $-1 $269 $113 F unknown #
+-175 plane-surface $-1 -1 -1 $-1 72.499999999999091 44 -213.7500000000002 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-176 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $114 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-177 face $270 -1 -1 $-1 $271 $272 $89 $-1 $273 reversed single F F #
+-178 loop $-1 -1 -1 $-1 $-1 $274 $114 F unknown #
+-179 plane-surface $-1 -1 -1 $-1 72.500000000000909 -78 299.99999999999989 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-180 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $115 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-181 face $275 -1 -1 $-1 $276 $277 $91 $-1 $278 reversed single F F #
+-182 loop $-1 -1 -1 $-1 $-1 $279 $115 F unknown #
+-183 plane-surface $-1 -1 -1 $-1 72.499999999998749 -78 -400.00000000000017 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-184 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $116 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-185 face $280 -1 -1 $-1 $281 $282 $93 $-1 $283 reversed single F F #
+-186 loop $-1 -1 -1 $-1 $-1 $284 $116 F unknown #
+-187 plane-surface $-1 -1 -1 $-1 72.500000000000909 44 254.99999999999977 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-188 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $117 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-189 face $285 -1 -1 $-1 $286 $287 $95 $-1 $288 reversed single F F #
+-190 loop $-1 -1 -1 $-1 $-1 $289 $117 F unknown #
+-191 plane-surface $-1 -1 -1 $-1 72.499999999999773 44 -72.500000000000199 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-192 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $118 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-193 face $290 -1 -1 $-1 $291 $292 $97 $-1 $293 reversed single F F #
+-194 loop $-1 -1 -1 $-1 $-1 $294 $118 F unknown #
+-195 plane-surface $-1 -1 -1 $-1 72.499999999998636 44 -400.00000000000023 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-196 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $119 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-197 face $295 -1 -1 $-1 $296 $297 $99 $-1 $298 reversed single F F #
+-198 loop $-1 -1 -1 $-1 $-1 $299 $119 F unknown #
+-199 plane-surface $-1 -1 -1 $-1 72.499999999999773 -78 -72.500000000004178 3.4914813388431334e-15 0 1 1000 0 -3.4914813388431333e-12 forward_v I I I I #
+-200 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $121 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-201 face $300 -1 -1 $-1 $301 $302 $61 $-1 $303 reversed single F F #
+-202 loop $-1 -1 -1 $-1 $-1 $304 $121 F unknown #
+-203 plane-surface $-1 -1 -1 $-1 -72.500000000000028 22 -399.99999999999994 0 0 1 1000 0 0 forward_v I I I I #
+-204 coedge $-1 -1 -1 $-1 $305 $306 $307 $308 forward $122 $-1 #
+-205 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $125 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-206 face $309 -1 -1 $-1 $310 $311 $63 $-1 $312 reversed single F F #
+-207 loop $-1 -1 -1 $-1 $-1 $313 $125 F unknown #
+-208 plane-surface $-1 -1 -1 $-1 -1127.5 22 -399.99999999999989 0 0 1 1000 0 0 forward_v I I I I #
+-209 coedge $-1 -1 -1 $-1 $314 $315 $316 $317 forward $126 $-1 #
+-210 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $129 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-211 face $318 -1 -1 $-1 $319 $320 $65 $-1 $321 reversed single F F #
+-212 loop $-1 -1 -1 $-1 $-1 $322 $129 F unknown #
+-213 plane-surface $-1 -1 -1 $-1 -600.00000000000011 22 -400 0 0 1 1000 0 0 forward_v I I I I #
+-214 coedge $-1 -1 -1 $-1 $323 $324 $325 $326 forward $130 $-1 #
+-215 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $133 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-216 face $327 -1 -1 $-1 $328 $329 $67 $-1 $330 reversed single F F #
+-217 loop $-1 -1 -1 $-1 $-1 $331 $133 F unknown #
+-218 plane-surface $-1 -1 -1 $-1 72.499999999999972 0 -399.99999999999994 -1 0 0 0 0 1000 forward_v I I I I #
+-219 coedge $-1 -1 -1 $-1 $332 $333 $334 $335 forward $134 $-1 #
+-220 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $137 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-221 face $336 -1 -1 $-1 $337 $338 $69 $-1 $339 reversed single F F #
+-222 loop $-1 -1 -1 $-1 $-1 $340 $137 F unknown #
+-223 plane-surface $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -399.99999999999994 -1 0 0 0 0 1000 forward_v I I I I #
+-224 coedge $-1 -1 -1 $-1 $341 $342 $343 $344 forward $138 $-1 #
+-225 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $141 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-226 face $345 -1 -1 $-1 $346 $347 $71 $-1 $348 reversed single F F #
+-227 loop $-1 -1 -1 $-1 $-1 $349 $141 F unknown #
+-228 plane-surface $-1 -1 -1 $-1 -600.00000000000011 0 -300.00000000000006 1 0 0 0 0 -1000 forward_v I I I I #
+-229 coedge $-1 -1 -1 $-1 $350 $351 $352 $353 forward $142 $-1 #
+-230 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $145 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-231 face $354 -1 -1 $-1 $355 $356 $73 $-1 $357 reversed single F F #
+-232 loop $-1 -1 -1 $-1 $-1 $358 $145 F unknown #
+-233 plane-surface $-1 -1 -1 $-1 -1127.4999999999986 0 400.00000000000404 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-234 coedge $-1 -1 -1 $-1 $359 $360 $361 $362 forward $146 $-1 #
+-235 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $149 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-236 face $363 -1 -1 $-1 $364 $365 $75 $-1 $366 reversed single F F #
+-237 loop $-1 -1 -1 $-1 $-1 $367 $149 F unknown #
+-238 plane-surface $-1 -1 -1 $-1 -599.99999999999864 0 400.00000000000205 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-239 coedge $-1 -1 -1 $-1 $368 $369 $370 $371 forward $150 $-1 #
+-240 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $153 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-241 face $372 -1 -1 $-1 $373 $374 $77 $-1 $375 reversed single F F #
+-242 loop $-1 -1 -1 $-1 $-1 $376 $153 F unknown #
+-243 plane-surface $-1 -1 -1 $-1 -72.499999999998622 0 400.00000000000017 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-244 coedge $-1 -1 -1 $-1 $377 $378 $379 $380 forward $154 $-1 #
+-245 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $157 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-246 face $381 -1 -1 $-1 $382 $383 $79 $-1 $384 reversed single F F #
+-247 loop $-1 -1 -1 $-1 $-1 $385 $157 F unknown #
+-248 plane-surface $-1 -1 -1 $-1 -600.00000000000011 0 -72.5 0 0 1 1000 0 0 forward_v I I I I #
+-249 coedge $-1 -1 -1 $-1 $386 $387 $388 $389 forward $158 $-1 #
+-250 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $161 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-251 face $390 -1 -1 $-1 $391 $392 $81 $-1 $393 reversed single F F #
+-252 loop $-1 -1 -1 $-1 $-1 $394 $161 F unknown #
+-253 plane-surface $-1 -1 -1 $-1 -72.500000000000014 0 -72.499999999999758 0 0 1 1000 0 0 forward_v I I I I #
+-254 coedge $-1 -1 -1 $-1 $395 $396 $397 $398 forward $162 $-1 #
+-255 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $165 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-256 face $399 -1 -1 $-1 $400 $401 $83 $-1 $402 reversed single F F #
+-257 loop $-1 -1 -1 $-1 $-1 $403 $165 F unknown #
+-258 plane-surface $-1 -1 -1 $-1 -1127.5 0 -72.500000000003936 0 0 1 1000 0 0 forward_v I I I I #
+-259 coedge $-1 -1 -1 $-1 $404 $405 $406 $407 forward $166 $-1 #
+-260 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $169 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-261 face $408 -1 -1 $-1 $409 $410 $85 $-1 $411 reversed single F F #
+-262 loop $-1 -1 -1 $-1 $-1 $412 $169 F unknown #
+-263 plane-surface $-1 -1 -1 $-1 -1127.4999999999991 44 213.75000000000401 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-264 coedge $-1 -1 -1 $-1 $413 $414 $415 $416 forward $170 $-1 #
+-265 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $173 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-266 face $417 -1 -1 $-1 $418 $419 $87 $-1 $420 reversed single F F #
+-267 loop $-1 -1 -1 $-1 $-1 $421 $173 F unknown #
+-268 plane-surface $-1 -1 -1 $-1 -1127.5000000000005 44 -113.74999999999602 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-269 coedge $-1 -1 -1 $-1 $422 $423 $424 $425 forward $174 $-1 #
+-270 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $177 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-271 face $426 -1 -1 $-1 $427 $428 $89 $-1 $429 reversed single F F #
+-272 loop $-1 -1 -1 $-1 $-1 $430 $177 F unknown #
+-273 plane-surface $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000409 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-274 coedge $-1 -1 -1 $-1 $431 $432 $433 $434 forward $178 $-1 #
+-275 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $181 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-276 face $435 -1 -1 $-1 $436 $437 $91 $-1 $438 reversed single F F #
+-277 loop $-1 -1 -1 $-1 $-1 $439 $181 F unknown #
+-278 plane-surface $-1 -1 -1 $-1 -1127.5000000000009 -78 -299.99999999999596 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-279 coedge $-1 -1 -1 $-1 $440 $441 $442 $443 forward $182 $-1 #
+-280 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $185 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-281 face $444 -1 -1 $-1 $445 $446 $93 $-1 $447 reversed single F F #
+-282 loop $-1 -1 -1 $-1 $-1 $448 $185 F unknown #
+-283 plane-surface $-1 -1 -1 $-1 -1127.4999999999986 44 400.00000000000398 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-284 coedge $-1 -1 -1 $-1 $449 $450 $451 $452 forward $186 $-1 #
+-285 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $189 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-286 face $453 -1 -1 $-1 $454 $455 $95 $-1 $456 reversed single F F #
+-287 loop $-1 -1 -1 $-1 $-1 $457 $189 F unknown #
+-288 plane-surface $-1 -1 -1 $-1 -1127.4999999999998 44 72.500000000003979 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-289 coedge $-1 -1 -1 $-1 $458 $459 $460 $461 forward $190 $-1 #
+-290 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $193 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-291 face $462 -1 -1 $-1 $463 $464 $97 $-1 $465 reversed single F F #
+-292 loop $-1 -1 -1 $-1 $-1 $466 $193 F unknown #
+-293 plane-surface $-1 -1 -1 $-1 -1127.5000000000009 44 -254.99999999999602 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-294 coedge $-1 -1 -1 $-1 $467 $468 $469 $470 forward $194 $-1 #
+-295 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $197 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-296 face $471 -1 -1 $-1 $472 $473 $99 $-1 $474 reversed single F F #
+-297 loop $-1 -1 -1 $-1 $-1 $475 $197 F unknown #
+-298 plane-surface $-1 -1 -1 $-1 -1127.4999999999998 -78 72.5 1 0 -3.4914813388431334e-15 -3.4914813388431333e-12 0 -1000 forward_v I I I I #
+-299 coedge $-1 -1 -1 $-1 $476 $477 $478 $479 forward $198 $-1 #
+-300 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $201 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-301 face $480 -1 -1 $-1 $481 $482 $61 $-1 $483 reversed single F F #
+-302 loop $-1 -1 -1 $-1 $-1 $484 $201 F unknown #
+-303 plane-surface $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 1 0 0 0 0 -1000 forward_v I I I I #
+-304 coedge $-1 -1 -1 $-1 $485 $486 $487 $488 forward $202 $-1 #
+-305 coedge $-1 -1 -1 $-1 $489 $204 $486 $490 reversed $122 $-1 #
+-306 coedge $-1 -1 -1 $-1 $204 $489 $491 $492 forward $122 $-1 #
+-307 coedge $-1 -1 -1 $-1 $493 $487 $204 $308 reversed $494 $-1 #
+-308 edge $-1 -1 -1 $-1 $495 1 $496 0 $204 $497 forward @7 unknown F #
+-309 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $206 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-310 face $498 -1 -1 $-1 $499 $500 $63 $-1 $501 reversed single F F #
+-311 loop $-1 -1 -1 $-1 $-1 $502 $206 F unknown #
+-312 plane-surface $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 1 0 0 0 0 -1000 forward_v I I I I #
+-313 coedge $-1 -1 -1 $-1 $503 $504 $505 $506 forward $207 $-1 #
+-314 coedge $-1 -1 -1 $-1 $507 $209 $504 $508 reversed $126 $-1 #
+-315 coedge $-1 -1 -1 $-1 $209 $507 $509 $510 forward $126 $-1 #
+-316 coedge $-1 -1 -1 $-1 $511 $505 $209 $317 reversed $512 $-1 #
+-317 edge $-1 -1 -1 $-1 $513 1 $514 0 $209 $515 forward @7 unknown F #
+-318 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $211 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-319 face $516 -1 -1 $-1 $517 $518 $65 $-1 $519 reversed single F F #
+-320 loop $-1 -1 -1 $-1 $-1 $520 $211 F unknown #
+-321 plane-surface $-1 -1 -1 $-1 -600.00000000000011 22 400 1 0 0 0 0 -1000 forward_v I I I I #
+-322 coedge $-1 -1 -1 $-1 $521 $522 $523 $524 forward $212 $-1 #
+-323 coedge $-1 -1 -1 $-1 $525 $214 $522 $526 reversed $130 $-1 #
+-324 coedge $-1 -1 -1 $-1 $214 $525 $527 $528 forward $130 $-1 #
+-325 coedge $-1 -1 -1 $-1 $529 $523 $214 $326 reversed $530 $-1 #
+-326 edge $-1 -1 -1 $-1 $531 1 $532 0 $214 $533 forward @7 unknown F #
+-327 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $216 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-328 face $534 -1 -1 $-1 $535 $536 $67 $-1 $537 reversed single F F #
+-329 loop $-1 -1 -1 $-1 $-1 $538 $216 F unknown #
+-330 plane-surface $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 0 0 1 1000 0 0 forward_v I I I I #
+-331 coedge $-1 -1 -1 $-1 $539 $540 $541 $542 forward $217 $-1 #
+-332 coedge $-1 -1 -1 $-1 $543 $219 $540 $544 reversed $134 $-1 #
+-333 coedge $-1 -1 -1 $-1 $219 $543 $545 $546 forward $134 $-1 #
+-334 coedge $-1 -1 -1 $-1 $547 $541 $219 $335 reversed $548 $-1 #
+-335 edge $-1 -1 -1 $-1 $549 1 $550 0 $219 $551 forward @7 unknown F #
+-336 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $221 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-337 face $552 -1 -1 $-1 $553 $554 $69 $-1 $555 reversed single F F #
+-338 loop $-1 -1 -1 $-1 $-1 $556 $221 F unknown #
+-339 plane-surface $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 0 0 1 1000 0 0 forward_v I I I I #
+-340 coedge $-1 -1 -1 $-1 $557 $558 $559 $560 forward $222 $-1 #
+-341 coedge $-1 -1 -1 $-1 $561 $224 $558 $562 reversed $138 $-1 #
+-342 coedge $-1 -1 -1 $-1 $224 $561 $563 $564 forward $138 $-1 #
+-343 coedge $-1 -1 -1 $-1 $565 $559 $224 $344 reversed $566 $-1 #
+-344 edge $-1 -1 -1 $-1 $567 1 $568 0 $224 $569 forward @7 unknown F #
+-345 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $226 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-346 face $570 -1 -1 $-1 $571 $572 $71 $-1 $573 reversed single F F #
+-347 loop $-1 -1 -1 $-1 $-1 $574 $226 F unknown #
+-348 plane-surface $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 0 0 -1 -1000 0 0 forward_v I I I I #
+-349 coedge $-1 -1 -1 $-1 $575 $576 $577 $578 forward $227 $-1 #
+-350 coedge $-1 -1 -1 $-1 $579 $229 $576 $580 reversed $142 $-1 #
+-351 coedge $-1 -1 -1 $-1 $229 $579 $581 $582 forward $142 $-1 #
+-352 coedge $-1 -1 -1 $-1 $583 $577 $229 $353 reversed $584 $-1 #
+-353 edge $-1 -1 -1 $-1 $585 1 $586 0 $229 $587 forward @7 unknown F #
+-354 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $231 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-355 face $588 -1 -1 $-1 $589 $590 $73 $-1 $591 reversed single F F #
+-356 loop $-1 -1 -1 $-1 $-1 $592 $231 F unknown #
+-357 plane-surface $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-358 coedge $-1 -1 -1 $-1 $593 $594 $595 $596 forward $232 $-1 #
+-359 coedge $-1 -1 -1 $-1 $597 $234 $594 $598 reversed $146 $-1 #
+-360 coedge $-1 -1 -1 $-1 $234 $597 $599 $600 forward $146 $-1 #
+-361 coedge $-1 -1 -1 $-1 $601 $595 $234 $362 reversed $602 $-1 #
+-362 edge $-1 -1 -1 $-1 $603 1 $604 0 $234 $605 forward @7 unknown F #
+-363 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $236 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-364 face $606 -1 -1 $-1 $607 $608 $75 $-1 $609 reversed single F F #
+-365 loop $-1 -1 -1 $-1 $-1 $610 $236 F unknown #
+-366 plane-surface $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-367 coedge $-1 -1 -1 $-1 $611 $612 $613 $614 forward $237 $-1 #
+-368 coedge $-1 -1 -1 $-1 $615 $239 $612 $616 reversed $150 $-1 #
+-369 coedge $-1 -1 -1 $-1 $239 $615 $617 $618 forward $150 $-1 #
+-370 coedge $-1 -1 -1 $-1 $619 $613 $239 $371 reversed $620 $-1 #
+-371 edge $-1 -1 -1 $-1 $621 1 $622 0 $239 $623 forward @7 unknown F #
+-372 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $241 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-373 face $624 -1 -1 $-1 $625 $626 $77 $-1 $627 reversed single F F #
+-374 loop $-1 -1 -1 $-1 $-1 $628 $241 F unknown #
+-375 plane-surface $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-376 coedge $-1 -1 -1 $-1 $629 $630 $631 $632 forward $242 $-1 #
+-377 coedge $-1 -1 -1 $-1 $633 $244 $630 $634 reversed $154 $-1 #
+-378 coedge $-1 -1 -1 $-1 $244 $633 $635 $636 forward $154 $-1 #
+-379 coedge $-1 -1 -1 $-1 $637 $631 $244 $380 reversed $638 $-1 #
+-380 edge $-1 -1 -1 $-1 $639 1 $640 0 $244 $641 forward @7 unknown F #
+-381 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $246 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-382 face $642 -1 -1 $-1 $643 $644 $79 $-1 $645 reversed single F F #
+-383 loop $-1 -1 -1 $-1 $-1 $646 $246 F unknown #
+-384 plane-surface $-1 -1 -1 $-1 -600.00000000000011 0 72.5 1 0 0 0 0 -1000 forward_v I I I I #
+-385 coedge $-1 -1 -1 $-1 $647 $648 $649 $650 forward $247 $-1 #
+-386 coedge $-1 -1 -1 $-1 $651 $249 $648 $652 reversed $158 $-1 #
+-387 coedge $-1 -1 -1 $-1 $249 $651 $653 $654 forward $158 $-1 #
+-388 coedge $-1 -1 -1 $-1 $655 $649 $249 $389 reversed $656 $-1 #
+-389 edge $-1 -1 -1 $-1 $657 1 $658 0 $249 $659 forward @7 unknown F #
+-390 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $251 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-391 face $660 -1 -1 $-1 $661 $662 $81 $-1 $663 reversed single F F #
+-392 loop $-1 -1 -1 $-1 $-1 $664 $251 F unknown #
+-393 plane-surface $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 1 0 0 0 0 -1000 forward_v I I I I #
+-394 coedge $-1 -1 -1 $-1 $665 $666 $667 $668 forward $252 $-1 #
+-395 coedge $-1 -1 -1 $-1 $669 $254 $666 $670 reversed $162 $-1 #
+-396 coedge $-1 -1 -1 $-1 $254 $669 $671 $672 forward $162 $-1 #
+-397 coedge $-1 -1 -1 $-1 $673 $667 $254 $398 reversed $674 $-1 #
+-398 edge $-1 -1 -1 $-1 $675 1 $676 0 $254 $677 forward @7 unknown F #
+-399 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $256 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-400 face $678 -1 -1 $-1 $679 $680 $83 $-1 $681 reversed single F F #
+-401 loop $-1 -1 -1 $-1 $-1 $682 $256 F unknown #
+-402 plane-surface $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 1 0 0 0 0 -1000 forward_v I I I I #
+-403 coedge $-1 -1 -1 $-1 $683 $684 $685 $686 forward $257 $-1 #
+-404 coedge $-1 -1 -1 $-1 $687 $259 $684 $688 reversed $166 $-1 #
+-405 coedge $-1 -1 -1 $-1 $259 $687 $689 $690 forward $166 $-1 #
+-406 coedge $-1 -1 -1 $-1 $691 $685 $259 $407 reversed $692 $-1 #
+-407 edge $-1 -1 -1 $-1 $693 1 $694 0 $259 $695 forward @7 unknown F #
+-408 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $261 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-409 face $696 -1 -1 $-1 $697 $698 $85 $-1 $699 reversed single F F #
+-410 loop $-1 -1 -1 $-1 $-1 $700 $261 F unknown #
+-411 plane-surface $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-412 coedge $-1 -1 -1 $-1 $701 $702 $703 $704 forward $262 $-1 #
+-413 coedge $-1 -1 -1 $-1 $705 $264 $702 $706 reversed $170 $-1 #
+-414 coedge $-1 -1 -1 $-1 $264 $705 $707 $708 forward $170 $-1 #
+-415 coedge $-1 -1 -1 $-1 $709 $703 $264 $416 reversed $710 $-1 #
+-416 edge $-1 -1 -1 $-1 $711 1 $712 0 $264 $713 forward @7 unknown F #
+-417 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $266 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-418 face $714 -1 -1 $-1 $715 $716 $87 $-1 $717 reversed single F F #
+-419 loop $-1 -1 -1 $-1 $-1 $718 $266 F unknown #
+-420 plane-surface $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-421 coedge $-1 -1 -1 $-1 $719 $720 $721 $722 forward $267 $-1 #
+-422 coedge $-1 -1 -1 $-1 $723 $269 $720 $724 reversed $174 $-1 #
+-423 coedge $-1 -1 -1 $-1 $269 $723 $725 $726 forward $174 $-1 #
+-424 coedge $-1 -1 -1 $-1 $727 $721 $269 $425 reversed $728 $-1 #
+-425 edge $-1 -1 -1 $-1 $729 1 $730 0 $269 $731 forward @7 unknown F #
+-426 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $271 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-427 face $732 -1 -1 $-1 $733 $734 $89 $-1 $735 reversed single F F #
+-428 loop $-1 -1 -1 $-1 $-1 $736 $271 F unknown #
+-429 plane-surface $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-430 coedge $-1 -1 -1 $-1 $737 $738 $739 $740 forward $272 $-1 #
+-431 coedge $-1 -1 -1 $-1 $741 $274 $738 $742 reversed $178 $-1 #
+-432 coedge $-1 -1 -1 $-1 $274 $741 $743 $744 forward $178 $-1 #
+-433 coedge $-1 -1 -1 $-1 $745 $739 $274 $434 reversed $746 $-1 #
+-434 edge $-1 -1 -1 $-1 $747 1 $748 0 $274 $749 forward @7 unknown F #
+-435 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $276 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-436 face $750 -1 -1 $-1 $751 $752 $91 $-1 $753 reversed single F F #
+-437 loop $-1 -1 -1 $-1 $-1 $754 $276 F unknown #
+-438 plane-surface $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-439 coedge $-1 -1 -1 $-1 $755 $756 $757 $758 forward $277 $-1 #
+-440 coedge $-1 -1 -1 $-1 $759 $279 $756 $760 reversed $182 $-1 #
+-441 coedge $-1 -1 -1 $-1 $279 $759 $761 $762 forward $182 $-1 #
+-442 coedge $-1 -1 -1 $-1 $763 $757 $279 $443 reversed $764 $-1 #
+-443 edge $-1 -1 -1 $-1 $765 1 $766 0 $279 $767 forward @7 unknown F #
+-444 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $281 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-445 face $768 -1 -1 $-1 $769 $770 $93 $-1 $771 reversed single F F #
+-446 loop $-1 -1 -1 $-1 $-1 $772 $281 F unknown #
+-447 plane-surface $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-448 coedge $-1 -1 -1 $-1 $773 $774 $775 $776 forward $282 $-1 #
+-449 coedge $-1 -1 -1 $-1 $777 $284 $774 $778 reversed $186 $-1 #
+-450 coedge $-1 -1 -1 $-1 $284 $777 $779 $780 forward $186 $-1 #
+-451 coedge $-1 -1 -1 $-1 $781 $775 $284 $452 reversed $782 $-1 #
+-452 edge $-1 -1 -1 $-1 $783 1 $784 0 $284 $785 forward @7 unknown F #
+-453 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $286 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-454 face $786 -1 -1 $-1 $787 $788 $95 $-1 $789 reversed single F F #
+-455 loop $-1 -1 -1 $-1 $-1 $790 $286 F unknown #
+-456 plane-surface $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-457 coedge $-1 -1 -1 $-1 $791 $792 $793 $794 forward $287 $-1 #
+-458 coedge $-1 -1 -1 $-1 $795 $289 $792 $796 reversed $190 $-1 #
+-459 coedge $-1 -1 -1 $-1 $289 $795 $797 $798 forward $190 $-1 #
+-460 coedge $-1 -1 -1 $-1 $799 $793 $289 $461 reversed $800 $-1 #
+-461 edge $-1 -1 -1 $-1 $801 1 $802 0 $289 $803 forward @7 unknown F #
+-462 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $291 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-463 face $804 -1 -1 $-1 $805 $806 $97 $-1 $807 reversed single F F #
+-464 loop $-1 -1 -1 $-1 $-1 $808 $291 F unknown #
+-465 plane-surface $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-466 coedge $-1 -1 -1 $-1 $809 $810 $811 $812 forward $292 $-1 #
+-467 coedge $-1 -1 -1 $-1 $813 $294 $810 $814 reversed $194 $-1 #
+-468 coedge $-1 -1 -1 $-1 $294 $813 $815 $816 forward $194 $-1 #
+-469 coedge $-1 -1 -1 $-1 $817 $811 $294 $470 reversed $818 $-1 #
+-470 edge $-1 -1 -1 $-1 $819 1 $820 0 $294 $821 forward @7 unknown F #
+-471 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $296 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-472 face $822 -1 -1 $-1 $823 $824 $99 $-1 $825 reversed single F F #
+-473 loop $-1 -1 -1 $-1 $-1 $826 $296 F unknown #
+-474 plane-surface $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 -3.4914813388431334e-15 0 -1 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-475 coedge $-1 -1 -1 $-1 $827 $828 $829 $830 forward $297 $-1 #
+-476 coedge $-1 -1 -1 $-1 $831 $299 $828 $832 reversed $198 $-1 #
+-477 coedge $-1 -1 -1 $-1 $299 $831 $833 $834 forward $198 $-1 #
+-478 coedge $-1 -1 -1 $-1 $835 $829 $299 $479 reversed $836 $-1 #
+-479 edge $-1 -1 -1 $-1 $837 1 $838 0 $299 $839 forward @7 unknown F #
+-480 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $301 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-481 face $840 -1 -1 $-1 $841 $842 $61 $-1 $843 reversed single F F #
+-482 loop $-1 -1 -1 $-1 $-1 $844 $301 F unknown #
+-483 plane-surface $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 0 0 -1 -1000 0 0 forward_v I I I I #
+-484 coedge $-1 -1 -1 $-1 $845 $846 $847 $848 forward $302 $-1 #
+-485 coedge $-1 -1 -1 $-1 $849 $304 $846 $850 reversed $202 $-1 #
+-486 coedge $-1 -1 -1 $-1 $304 $849 $305 $490 forward $202 $-1 #
+-487 coedge $-1 -1 -1 $-1 $307 $847 $304 $488 reversed $494 $-1 #
+-488 edge $-1 -1 -1 $-1 $496 1 $851 0 $304 $852 forward @7 unknown F #
+-489 coedge $-1 -1 -1 $-1 $306 $305 $853 $854 reversed $122 $-1 #
+-490 edge $-1 -1 -1 $-1 $855 1 $496 0 $486 $856 forward @7 unknown F #
+-491 coedge $-1 -1 -1 $-1 $857 $844 $306 $492 reversed $482 $-1 #
+-492 edge $-1 -1 -1 $-1 $858 1 $495 0 $306 $859 forward @7 unknown F #
+-493 coedge $-1 -1 -1 $-1 $847 $307 $844 $860 reversed $494 $-1 #
+-494 loop $-1 -1 -1 $-1 $-1 $307 $841 F unknown #
+-495 vertex $-1 -1 -1 $-1 $860 $861 #
+-496 vertex $-1 -1 -1 $-1 $488 $862 #
+-497 straight-curve $-1 -1 -1 $-1 72.499999999999972 0 400.00000000000006 0 0 -1000 I I #
+-498 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $310 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-499 face $863 -1 -1 $-1 $864 $865 $63 $-1 $866 reversed single F F #
+-500 loop $-1 -1 -1 $-1 $-1 $867 $310 F unknown #
+-501 plane-surface $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 0 0 -1 -1000 0 0 forward_v I I I I #
+-502 coedge $-1 -1 -1 $-1 $868 $869 $870 $871 forward $311 $-1 #
+-503 coedge $-1 -1 -1 $-1 $872 $313 $869 $873 reversed $207 $-1 #
+-504 coedge $-1 -1 -1 $-1 $313 $872 $314 $508 forward $207 $-1 #
+-505 coedge $-1 -1 -1 $-1 $316 $870 $313 $506 reversed $512 $-1 #
+-506 edge $-1 -1 -1 $-1 $514 1 $874 0 $313 $875 forward @7 unknown F #
+-507 coedge $-1 -1 -1 $-1 $315 $314 $876 $877 reversed $126 $-1 #
+-508 edge $-1 -1 -1 $-1 $878 1 $514 0 $504 $879 forward @7 unknown F #
+-509 coedge $-1 -1 -1 $-1 $880 $867 $315 $510 reversed $500 $-1 #
+-510 edge $-1 -1 -1 $-1 $881 1 $513 0 $315 $882 forward @7 unknown F #
+-511 coedge $-1 -1 -1 $-1 $870 $316 $867 $883 reversed $512 $-1 #
+-512 loop $-1 -1 -1 $-1 $-1 $316 $864 F unknown #
+-513 vertex $-1 -1 -1 $-1 $883 $884 #
+-514 vertex $-1 -1 -1 $-1 $506 $885 #
+-515 straight-curve $-1 -1 -1 $-1 -982.5 0 400.00000000000011 0 0 -1000 I I #
+-516 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $319 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-517 face $886 -1 -1 $-1 $887 $888 $65 $-1 $889 reversed single F F #
+-518 loop $-1 -1 -1 $-1 $-1 $890 $319 F unknown #
+-519 plane-surface $-1 -1 -1 $-1 -600.00000000000011 22 400 0 0 -1 -1000 0 0 forward_v I I I I #
+-520 coedge $-1 -1 -1 $-1 $891 $892 $893 $894 forward $320 $-1 #
+-521 coedge $-1 -1 -1 $-1 $895 $322 $892 $896 reversed $212 $-1 #
+-522 coedge $-1 -1 -1 $-1 $322 $895 $323 $526 forward $212 $-1 #
+-523 coedge $-1 -1 -1 $-1 $325 $893 $322 $524 reversed $530 $-1 #
+-524 edge $-1 -1 -1 $-1 $532 1 $897 0 $322 $898 forward @7 unknown F #
+-525 coedge $-1 -1 -1 $-1 $324 $323 $899 $900 reversed $130 $-1 #
+-526 edge $-1 -1 -1 $-1 $901 1 $532 0 $522 $902 forward @7 unknown F #
+-527 coedge $-1 -1 -1 $-1 $903 $890 $324 $528 reversed $518 $-1 #
+-528 edge $-1 -1 -1 $-1 $904 1 $531 0 $324 $905 forward @7 unknown F #
+-529 coedge $-1 -1 -1 $-1 $893 $325 $890 $906 reversed $530 $-1 #
+-530 loop $-1 -1 -1 $-1 $-1 $325 $887 F unknown #
+-531 vertex $-1 -1 -1 $-1 $906 $907 #
+-532 vertex $-1 -1 -1 $-1 $524 $908 #
+-533 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 400 0 0 -1000 I I #
+-534 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $328 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-535 face $909 -1 -1 $-1 $910 $911 $67 $-1 $912 reversed single F F #
+-536 loop $-1 -1 -1 $-1 $-1 $913 $328 F unknown #
+-537 plane-surface $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 1 0 0 0 0 -1000 forward_v I I I I #
+-538 coedge $-1 -1 -1 $-1 $914 $915 $916 $917 forward $329 $-1 #
+-539 coedge $-1 -1 -1 $-1 $918 $331 $915 $919 reversed $217 $-1 #
+-540 coedge $-1 -1 -1 $-1 $331 $918 $332 $544 forward $217 $-1 #
+-541 coedge $-1 -1 -1 $-1 $334 $916 $331 $542 reversed $548 $-1 #
+-542 edge $-1 -1 -1 $-1 $550 1 $920 0 $331 $921 forward @7 unknown F #
+-543 coedge $-1 -1 -1 $-1 $333 $332 $922 $923 reversed $134 $-1 #
+-544 edge $-1 -1 -1 $-1 $924 1 $550 0 $540 $925 forward @7 unknown F #
+-545 coedge $-1 -1 -1 $-1 $926 $913 $333 $546 reversed $536 $-1 #
+-546 edge $-1 -1 -1 $-1 $927 1 $549 0 $333 $928 forward @7 unknown F #
+-547 coedge $-1 -1 -1 $-1 $916 $334 $913 $929 reversed $548 $-1 #
+-548 loop $-1 -1 -1 $-1 $-1 $334 $910 F unknown #
+-549 vertex $-1 -1 -1 $-1 $929 $930 #
+-550 vertex $-1 -1 -1 $-1 $542 $931 #
+-551 straight-curve $-1 -1 -1 $-1 -72.500000000000028 -78 -299.99999999999994 1000 0 0 I I #
+-552 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $337 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-553 face $932 -1 -1 $-1 $933 $934 $69 $-1 $935 reversed single F F #
+-554 loop $-1 -1 -1 $-1 $-1 $936 $337 F unknown #
+-555 plane-surface $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 1 0 0 0 0 -1000 forward_v I I I I #
+-556 coedge $-1 -1 -1 $-1 $937 $938 $939 $940 forward $338 $-1 #
+-557 coedge $-1 -1 -1 $-1 $941 $340 $938 $942 reversed $222 $-1 #
+-558 coedge $-1 -1 -1 $-1 $340 $941 $341 $562 forward $222 $-1 #
+-559 coedge $-1 -1 -1 $-1 $343 $939 $340 $560 reversed $566 $-1 #
+-560 edge $-1 -1 -1 $-1 $568 1 $943 0 $340 $944 forward @7 unknown F #
+-561 coedge $-1 -1 -1 $-1 $342 $341 $945 $946 reversed $138 $-1 #
+-562 edge $-1 -1 -1 $-1 $947 1 $568 0 $558 $948 forward @7 unknown F #
+-563 coedge $-1 -1 -1 $-1 $949 $936 $342 $564 reversed $554 $-1 #
+-564 edge $-1 -1 -1 $-1 $950 1 $567 0 $342 $951 forward @7 unknown F #
+-565 coedge $-1 -1 -1 $-1 $939 $343 $936 $952 reversed $566 $-1 #
+-566 loop $-1 -1 -1 $-1 $-1 $343 $933 F unknown #
+-567 vertex $-1 -1 -1 $-1 $952 $953 #
+-568 vertex $-1 -1 -1 $-1 $560 $954 #
+-569 straight-curve $-1 -1 -1 $-1 -1127.5 -78.000000000000014 -299.99999999999994 1000 0 0 I I #
+-570 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $346 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-571 face $955 -1 -1 $-1 $956 $957 $71 $-1 $958 reversed single F F #
+-572 loop $-1 -1 -1 $-1 $-1 $959 $346 F unknown #
+-573 plane-surface $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 -1 0 0 0 0 1000 forward_v I I I I #
+-574 coedge $-1 -1 -1 $-1 $960 $961 $962 $963 forward $347 $-1 #
+-575 coedge $-1 -1 -1 $-1 $964 $349 $961 $965 reversed $227 $-1 #
+-576 coedge $-1 -1 -1 $-1 $349 $964 $350 $580 forward $227 $-1 #
+-577 coedge $-1 -1 -1 $-1 $352 $962 $349 $578 reversed $584 $-1 #
+-578 edge $-1 -1 -1 $-1 $586 1 $966 0 $349 $967 forward @7 unknown F #
+-579 coedge $-1 -1 -1 $-1 $351 $350 $968 $969 reversed $142 $-1 #
+-580 edge $-1 -1 -1 $-1 $970 1 $586 0 $576 $971 forward @7 unknown F #
+-581 coedge $-1 -1 -1 $-1 $972 $959 $351 $582 reversed $572 $-1 #
+-582 edge $-1 -1 -1 $-1 $973 1 $585 0 $351 $974 forward @7 unknown F #
+-583 coedge $-1 -1 -1 $-1 $962 $352 $959 $975 reversed $584 $-1 #
+-584 loop $-1 -1 -1 $-1 $-1 $352 $956 F unknown #
+-585 vertex $-1 -1 -1 $-1 $975 $976 #
+-586 vertex $-1 -1 -1 $-1 $578 $977 #
+-587 straight-curve $-1 -1 -1 $-1 -455.00000000000011 -78 -400.00000000000006 -1000 0 0 I I #
+-588 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $355 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-589 face $978 -1 -1 $-1 $979 $980 $73 $-1 $981 reversed single F F #
+-590 loop $-1 -1 -1 $-1 $-1 $982 $355 F unknown #
+-591 plane-surface $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-592 coedge $-1 -1 -1 $-1 $983 $984 $985 $986 forward $356 $-1 #
+-593 coedge $-1 -1 -1 $-1 $987 $358 $984 $988 reversed $232 $-1 #
+-594 coedge $-1 -1 -1 $-1 $358 $987 $359 $598 forward $232 $-1 #
+-595 coedge $-1 -1 -1 $-1 $361 $985 $358 $596 reversed $602 $-1 #
+-596 edge $-1 -1 -1 $-1 $604 1 $989 0 $358 $990 forward @7 unknown F #
+-597 coedge $-1 -1 -1 $-1 $360 $359 $991 $992 reversed $146 $-1 #
+-598 edge $-1 -1 -1 $-1 $993 1 $604 0 $594 $994 forward @7 unknown F #
+-599 coedge $-1 -1 -1 $-1 $995 $982 $360 $600 reversed $590 $-1 #
+-600 edge $-1 -1 -1 $-1 $996 1 $603 0 $360 $997 forward @7 unknown F #
+-601 coedge $-1 -1 -1 $-1 $985 $361 $982 $998 reversed $602 $-1 #
+-602 loop $-1 -1 -1 $-1 $-1 $361 $979 F unknown #
+-603 vertex $-1 -1 -1 $-1 $998 $999 #
+-604 vertex $-1 -1 -1 $-1 $596 $1000 #
+-605 straight-curve $-1 -1 -1 $-1 -982.49999999999909 -78 300.00000000000352 -1000 0 3.4914813388431333e-12 I I #
+-606 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $364 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-607 face $1001 -1 -1 $-1 $1002 $1003 $75 $-1 $1004 reversed single F F #
+-608 loop $-1 -1 -1 $-1 $-1 $1005 $364 F unknown #
+-609 plane-surface $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-610 coedge $-1 -1 -1 $-1 $1006 $1007 $1008 $1009 forward $365 $-1 #
+-611 coedge $-1 -1 -1 $-1 $1010 $367 $1007 $1011 reversed $237 $-1 #
+-612 coedge $-1 -1 -1 $-1 $367 $1010 $368 $616 forward $237 $-1 #
+-613 coedge $-1 -1 -1 $-1 $370 $1008 $367 $614 reversed $620 $-1 #
+-614 edge $-1 -1 -1 $-1 $622 1 $1012 0 $367 $1013 forward @7 unknown F #
+-615 coedge $-1 -1 -1 $-1 $369 $368 $1014 $1015 reversed $150 $-1 #
+-616 edge $-1 -1 -1 $-1 $1016 1 $622 0 $612 $1017 forward @7 unknown F #
+-617 coedge $-1 -1 -1 $-1 $1018 $1005 $369 $618 reversed $608 $-1 #
+-618 edge $-1 -1 -1 $-1 $1019 1 $621 0 $369 $1020 forward @7 unknown F #
+-619 coedge $-1 -1 -1 $-1 $1008 $370 $1005 $1021 reversed $620 $-1 #
+-620 loop $-1 -1 -1 $-1 $-1 $370 $1002 F unknown #
+-621 vertex $-1 -1 -1 $-1 $1021 $1022 #
+-622 vertex $-1 -1 -1 $-1 $614 $1023 #
+-623 straight-curve $-1 -1 -1 $-1 -454.99999999999909 -78 300.00000000000153 -1000 0 3.4914813388431333e-12 I I #
+-624 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $373 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-625 face $1024 -1 -1 $-1 $1025 $1026 $77 $-1 $1027 reversed single F F #
+-626 loop $-1 -1 -1 $-1 $-1 $1028 $373 F unknown #
+-627 plane-surface $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-628 coedge $-1 -1 -1 $-1 $1029 $1030 $1031 $1032 forward $374 $-1 #
+-629 coedge $-1 -1 -1 $-1 $1033 $376 $1030 $1034 reversed $242 $-1 #
+-630 coedge $-1 -1 -1 $-1 $376 $1033 $377 $634 forward $242 $-1 #
+-631 coedge $-1 -1 -1 $-1 $379 $1031 $376 $632 reversed $638 $-1 #
+-632 edge $-1 -1 -1 $-1 $640 1 $1035 0 $376 $1036 forward @7 unknown F #
+-633 coedge $-1 -1 -1 $-1 $378 $377 $1037 $1038 reversed $154 $-1 #
+-634 edge $-1 -1 -1 $-1 $1039 1 $640 0 $630 $1040 forward @7 unknown F #
+-635 coedge $-1 -1 -1 $-1 $1041 $1028 $378 $636 reversed $626 $-1 #
+-636 edge $-1 -1 -1 $-1 $1042 1 $639 0 $378 $1043 forward @7 unknown F #
+-637 coedge $-1 -1 -1 $-1 $1031 $379 $1028 $1044 reversed $638 $-1 #
+-638 loop $-1 -1 -1 $-1 $-1 $379 $1025 F unknown #
+-639 vertex $-1 -1 -1 $-1 $1044 $1045 #
+-640 vertex $-1 -1 -1 $-1 $632 $1046 #
+-641 straight-curve $-1 -1 -1 $-1 72.500000000001009 -78 299.99999999999966 -1000 0 3.4914813388431333e-12 I I #
+-642 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $382 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-643 face $1047 -1 -1 $-1 $1048 $1049 $79 $-1 $1050 reversed single F F #
+-644 loop $-1 -1 -1 $-1 $-1 $1051 $382 F unknown #
+-645 plane-surface $-1 -1 -1 $-1 -600.00000000000011 0 72.5 0 0 -1 -1000 0 0 forward_v I I I I #
+-646 coedge $-1 -1 -1 $-1 $1052 $1053 $1054 $1055 forward $383 $-1 #
+-647 coedge $-1 -1 -1 $-1 $1056 $385 $1053 $1057 reversed $247 $-1 #
+-648 coedge $-1 -1 -1 $-1 $385 $1056 $386 $652 forward $247 $-1 #
+-649 coedge $-1 -1 -1 $-1 $388 $1054 $385 $650 reversed $656 $-1 #
+-650 edge $-1 -1 -1 $-1 $658 1 $1058 0 $385 $1059 forward @7 unknown F #
+-651 coedge $-1 -1 -1 $-1 $387 $386 $1060 $1061 reversed $158 $-1 #
+-652 edge $-1 -1 -1 $-1 $1062 1 $658 0 $648 $1063 forward @7 unknown F #
+-653 coedge $-1 -1 -1 $-1 $1064 $1051 $387 $654 reversed $644 $-1 #
+-654 edge $-1 -1 -1 $-1 $1065 1 $657 0 $387 $1066 forward @7 unknown F #
+-655 coedge $-1 -1 -1 $-1 $1054 $388 $1051 $1067 reversed $656 $-1 #
+-656 loop $-1 -1 -1 $-1 $-1 $388 $1048 F unknown #
+-657 vertex $-1 -1 -1 $-1 $1067 $1068 #
+-658 vertex $-1 -1 -1 $-1 $650 $1069 #
+-659 straight-curve $-1 -1 -1 $-1 -455.00000000000011 -78 72.5 0 0 -1000 I I #
+-660 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $391 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-661 face $1070 -1 -1 $-1 $1071 $1072 $81 $-1 $1073 reversed single F F #
+-662 loop $-1 -1 -1 $-1 $-1 $1074 $391 F unknown #
+-663 plane-surface $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 0 0 -1 -1000 0 0 forward_v I I I I #
+-664 coedge $-1 -1 -1 $-1 $1075 $1076 $1077 $1078 forward $392 $-1 #
+-665 coedge $-1 -1 -1 $-1 $1079 $394 $1076 $1080 reversed $252 $-1 #
+-666 coedge $-1 -1 -1 $-1 $394 $1079 $395 $670 forward $252 $-1 #
+-667 coedge $-1 -1 -1 $-1 $397 $1077 $394 $668 reversed $674 $-1 #
+-668 edge $-1 -1 -1 $-1 $676 1 $1081 0 $394 $1082 forward @7 unknown F #
+-669 coedge $-1 -1 -1 $-1 $396 $395 $1083 $1084 reversed $162 $-1 #
+-670 edge $-1 -1 -1 $-1 $1085 1 $676 0 $666 $1086 forward @7 unknown F #
+-671 coedge $-1 -1 -1 $-1 $1087 $1074 $396 $672 reversed $662 $-1 #
+-672 edge $-1 -1 -1 $-1 $1088 1 $675 0 $396 $1089 forward @7 unknown F #
+-673 coedge $-1 -1 -1 $-1 $1077 $397 $1074 $1090 reversed $674 $-1 #
+-674 loop $-1 -1 -1 $-1 $-1 $397 $1071 F unknown #
+-675 vertex $-1 -1 -1 $-1 $1090 $1091 #
+-676 vertex $-1 -1 -1 $-1 $668 $1092 #
+-677 straight-curve $-1 -1 -1 $-1 72.499999999999986 -78 72.500000000000242 0 0 -1000 I I #
+-678 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $400 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-679 face $1093 -1 -1 $-1 $1094 $1095 $83 $-1 $1096 reversed single F F #
+-680 loop $-1 -1 -1 $-1 $-1 $1097 $400 F unknown #
+-681 plane-surface $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 0 0 -1 -1000 0 0 forward_v I I I I #
+-682 coedge $-1 -1 -1 $-1 $1098 $1099 $1100 $1101 forward $401 $-1 #
+-683 coedge $-1 -1 -1 $-1 $1102 $403 $1099 $1103 reversed $257 $-1 #
+-684 coedge $-1 -1 -1 $-1 $403 $1102 $404 $688 forward $257 $-1 #
+-685 coedge $-1 -1 -1 $-1 $406 $1100 $403 $686 reversed $692 $-1 #
+-686 edge $-1 -1 -1 $-1 $694 1 $1104 0 $403 $1105 forward @7 unknown F #
+-687 coedge $-1 -1 -1 $-1 $405 $404 $1106 $1107 reversed $166 $-1 #
+-688 edge $-1 -1 -1 $-1 $1108 1 $694 0 $684 $1109 forward @7 unknown F #
+-689 coedge $-1 -1 -1 $-1 $1110 $1097 $405 $690 reversed $680 $-1 #
+-690 edge $-1 -1 -1 $-1 $1111 1 $693 0 $405 $1112 forward @7 unknown F #
+-691 coedge $-1 -1 -1 $-1 $1100 $406 $1097 $1113 reversed $692 $-1 #
+-692 loop $-1 -1 -1 $-1 $-1 $406 $1094 F unknown #
+-693 vertex $-1 -1 -1 $-1 $1113 $1114 #
+-694 vertex $-1 -1 -1 $-1 $686 $1115 #
+-695 straight-curve $-1 -1 -1 $-1 -982.5 -78 72.499999999996064 0 0 -1000 I I #
+-696 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $409 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-697 face $1116 -1 -1 $-1 $1117 $1118 $85 $-1 $1119 reversed single F F #
+-698 loop $-1 -1 -1 $-1 $-1 $1120 $409 F unknown #
+-699 plane-surface $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-700 coedge $-1 -1 -1 $-1 $1121 $1122 $1123 $1124 forward $410 $-1 #
+-701 coedge $-1 -1 -1 $-1 $1125 $412 $1122 $1126 reversed $262 $-1 #
+-702 coedge $-1 -1 -1 $-1 $412 $1125 $413 $706 forward $262 $-1 #
+-703 coedge $-1 -1 -1 $-1 $415 $1123 $412 $704 reversed $710 $-1 #
+-704 edge $-1 -1 -1 $-1 $712 1 $1127 0 $412 $1128 forward @7 unknown F #
+-705 coedge $-1 -1 -1 $-1 $414 $413 $1129 $1130 reversed $170 $-1 #
+-706 edge $-1 -1 -1 $-1 $1131 1 $712 0 $702 $1132 forward @7 unknown F #
+-707 coedge $-1 -1 -1 $-1 $1133 $1120 $414 $708 reversed $698 $-1 #
+-708 edge $-1 -1 -1 $-1 $1134 1 $711 0 $414 $1135 forward @7 unknown F #
+-709 coedge $-1 -1 -1 $-1 $1123 $415 $1120 $1136 reversed $710 $-1 #
+-710 loop $-1 -1 -1 $-1 $-1 $415 $1117 F unknown #
+-711 vertex $-1 -1 -1 $-1 $1136 $1137 #
+-712 vertex $-1 -1 -1 $-1 $704 $1138 #
+-713 straight-curve $-1 -1 -1 $-1 72.500000000000341 22 113.74999999999983 -1000 0 3.4914813388431333e-12 I I #
+-714 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $418 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-715 face $1139 -1 -1 $-1 $1140 $1141 $87 $-1 $1142 reversed single F F #
+-716 loop $-1 -1 -1 $-1 $-1 $1143 $418 F unknown #
+-717 plane-surface $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-718 coedge $-1 -1 -1 $-1 $1144 $1145 $1146 $1147 forward $419 $-1 #
+-719 coedge $-1 -1 -1 $-1 $1148 $421 $1145 $1149 reversed $267 $-1 #
+-720 coedge $-1 -1 -1 $-1 $421 $1148 $422 $724 forward $267 $-1 #
+-721 coedge $-1 -1 -1 $-1 $424 $1146 $421 $722 reversed $728 $-1 #
+-722 edge $-1 -1 -1 $-1 $730 1 $1150 0 $421 $1151 forward @7 unknown F #
+-723 coedge $-1 -1 -1 $-1 $423 $422 $1152 $1153 reversed $174 $-1 #
+-724 edge $-1 -1 -1 $-1 $1154 1 $730 0 $720 $1155 forward @7 unknown F #
+-725 coedge $-1 -1 -1 $-1 $1156 $1143 $423 $726 reversed $716 $-1 #
+-726 edge $-1 -1 -1 $-1 $1157 1 $729 0 $423 $1158 forward @7 unknown F #
+-727 coedge $-1 -1 -1 $-1 $1146 $424 $1143 $1159 reversed $728 $-1 #
+-728 loop $-1 -1 -1 $-1 $-1 $424 $1140 F unknown #
+-729 vertex $-1 -1 -1 $-1 $1159 $1160 #
+-730 vertex $-1 -1 -1 $-1 $722 $1161 #
+-731 straight-curve $-1 -1 -1 $-1 72.499999999999091 22 -213.7500000000002 -1000 0 3.4914813388431333e-12 I I #
+-732 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $427 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-733 face $1162 -1 -1 $-1 $1163 $1164 $89 $-1 $1165 reversed single F F #
+-734 loop $-1 -1 -1 $-1 $-1 $1166 $427 F unknown #
+-735 plane-surface $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-736 coedge $-1 -1 -1 $-1 $1167 $1168 $1169 $1170 forward $428 $-1 #
+-737 coedge $-1 -1 -1 $-1 $1171 $430 $1168 $1172 reversed $272 $-1 #
+-738 coedge $-1 -1 -1 $-1 $430 $1171 $431 $742 forward $272 $-1 #
+-739 coedge $-1 -1 -1 $-1 $433 $1169 $430 $740 reversed $746 $-1 #
+-740 edge $-1 -1 -1 $-1 $748 1 $1173 0 $430 $1174 forward @7 unknown F #
+-741 coedge $-1 -1 -1 $-1 $432 $431 $1175 $1176 reversed $178 $-1 #
+-742 edge $-1 -1 -1 $-1 $1177 1 $748 0 $738 $1178 forward @7 unknown F #
+-743 coedge $-1 -1 -1 $-1 $1179 $1166 $432 $744 reversed $734 $-1 #
+-744 edge $-1 -1 -1 $-1 $1180 1 $747 0 $432 $1181 forward @7 unknown F #
+-745 coedge $-1 -1 -1 $-1 $1169 $433 $1166 $1182 reversed $746 $-1 #
+-746 loop $-1 -1 -1 $-1 $-1 $433 $1163 F unknown #
+-747 vertex $-1 -1 -1 $-1 $1182 $1183 #
+-748 vertex $-1 -1 -1 $-1 $740 $1184 #
+-749 straight-curve $-1 -1 -1 $-1 72.500000000000909 -100 299.99999999999989 -1000 0 3.4914813388431333e-12 I I #
+-750 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $436 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-751 face $1185 -1 -1 $-1 $1186 $1187 $91 $-1 $1188 reversed single F F #
+-752 loop $-1 -1 -1 $-1 $-1 $1189 $436 F unknown #
+-753 plane-surface $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-754 coedge $-1 -1 -1 $-1 $1190 $1191 $1192 $1193 forward $437 $-1 #
+-755 coedge $-1 -1 -1 $-1 $1194 $439 $1191 $1195 reversed $277 $-1 #
+-756 coedge $-1 -1 -1 $-1 $439 $1194 $440 $760 forward $277 $-1 #
+-757 coedge $-1 -1 -1 $-1 $442 $1192 $439 $758 reversed $764 $-1 #
+-758 edge $-1 -1 -1 $-1 $766 1 $1196 0 $439 $1197 forward @7 unknown F #
+-759 coedge $-1 -1 -1 $-1 $441 $440 $1198 $1199 reversed $182 $-1 #
+-760 edge $-1 -1 -1 $-1 $1200 1 $766 0 $756 $1201 forward @7 unknown F #
+-761 coedge $-1 -1 -1 $-1 $1202 $1189 $441 $762 reversed $752 $-1 #
+-762 edge $-1 -1 -1 $-1 $1203 1 $765 0 $441 $1204 forward @7 unknown F #
+-763 coedge $-1 -1 -1 $-1 $1192 $442 $1189 $1205 reversed $764 $-1 #
+-764 loop $-1 -1 -1 $-1 $-1 $442 $1186 F unknown #
+-765 vertex $-1 -1 -1 $-1 $1205 $1206 #
+-766 vertex $-1 -1 -1 $-1 $758 $1207 #
+-767 straight-curve $-1 -1 -1 $-1 72.499999999998749 -100 -400.00000000000017 -1000 0 3.4914813388431333e-12 I I #
+-768 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $445 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-769 face $1208 -1 -1 $-1 $1209 $1210 $93 $-1 $1211 reversed single F F #
+-770 loop $-1 -1 -1 $-1 $-1 $1212 $445 F unknown #
+-771 plane-surface $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-772 coedge $-1 -1 -1 $-1 $1213 $1214 $1215 $1216 forward $446 $-1 #
+-773 coedge $-1 -1 -1 $-1 $1217 $448 $1214 $1218 reversed $282 $-1 #
+-774 coedge $-1 -1 -1 $-1 $448 $1217 $449 $778 forward $282 $-1 #
+-775 coedge $-1 -1 -1 $-1 $451 $1215 $448 $776 reversed $782 $-1 #
+-776 edge $-1 -1 -1 $-1 $784 1 $1219 0 $448 $1220 forward @7 unknown F #
+-777 coedge $-1 -1 -1 $-1 $450 $449 $1221 $1222 reversed $186 $-1 #
+-778 edge $-1 -1 -1 $-1 $1223 1 $784 0 $774 $1224 forward @7 unknown F #
+-779 coedge $-1 -1 -1 $-1 $1225 $1212 $450 $780 reversed $770 $-1 #
+-780 edge $-1 -1 -1 $-1 $1226 1 $783 0 $450 $1227 forward @7 unknown F #
+-781 coedge $-1 -1 -1 $-1 $1215 $451 $1212 $1228 reversed $782 $-1 #
+-782 loop $-1 -1 -1 $-1 $-1 $451 $1209 F unknown #
+-783 vertex $-1 -1 -1 $-1 $1228 $1229 #
+-784 vertex $-1 -1 -1 $-1 $776 $1230 #
+-785 straight-curve $-1 -1 -1 $-1 72.500000000000909 21.999999999999996 254.99999999999977 -1000 0 3.4914813388431333e-12 I I #
+-786 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $454 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-787 face $1231 -1 -1 $-1 $1232 $1233 $95 $-1 $1234 reversed single F F #
+-788 loop $-1 -1 -1 $-1 $-1 $1235 $454 F unknown #
+-789 plane-surface $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-790 coedge $-1 -1 -1 $-1 $1236 $1237 $1238 $1239 forward $455 $-1 #
+-791 coedge $-1 -1 -1 $-1 $1240 $457 $1237 $1241 reversed $287 $-1 #
+-792 coedge $-1 -1 -1 $-1 $457 $1240 $458 $796 forward $287 $-1 #
+-793 coedge $-1 -1 -1 $-1 $460 $1238 $457 $794 reversed $800 $-1 #
+-794 edge $-1 -1 -1 $-1 $802 1 $1242 0 $457 $1243 forward @7 unknown F #
+-795 coedge $-1 -1 -1 $-1 $459 $458 $1244 $1245 reversed $190 $-1 #
+-796 edge $-1 -1 -1 $-1 $1246 1 $802 0 $792 $1247 forward @7 unknown F #
+-797 coedge $-1 -1 -1 $-1 $1248 $1235 $459 $798 reversed $788 $-1 #
+-798 edge $-1 -1 -1 $-1 $1249 1 $801 0 $459 $1250 forward @7 unknown F #
+-799 coedge $-1 -1 -1 $-1 $1238 $460 $1235 $1251 reversed $800 $-1 #
+-800 loop $-1 -1 -1 $-1 $-1 $460 $1232 F unknown #
+-801 vertex $-1 -1 -1 $-1 $1251 $1252 #
+-802 vertex $-1 -1 -1 $-1 $794 $1253 #
+-803 straight-curve $-1 -1 -1 $-1 72.499999999999773 22 -72.500000000000199 -1000 0 3.4914813388431333e-12 I I #
+-804 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $463 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-805 face $1254 -1 -1 $-1 $1255 $1256 $97 $-1 $1257 reversed single F F #
+-806 loop $-1 -1 -1 $-1 $-1 $1258 $463 F unknown #
+-807 plane-surface $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-808 coedge $-1 -1 -1 $-1 $1259 $1260 $1261 $1262 forward $464 $-1 #
+-809 coedge $-1 -1 -1 $-1 $1263 $466 $1260 $1264 reversed $292 $-1 #
+-810 coedge $-1 -1 -1 $-1 $466 $1263 $467 $814 forward $292 $-1 #
+-811 coedge $-1 -1 -1 $-1 $469 $1261 $466 $812 reversed $818 $-1 #
+-812 edge $-1 -1 -1 $-1 $820 1 $1265 0 $466 $1266 forward @7 unknown F #
+-813 coedge $-1 -1 -1 $-1 $468 $467 $1267 $1268 reversed $194 $-1 #
+-814 edge $-1 -1 -1 $-1 $1269 1 $820 0 $810 $1270 forward @7 unknown F #
+-815 coedge $-1 -1 -1 $-1 $1271 $1258 $468 $816 reversed $806 $-1 #
+-816 edge $-1 -1 -1 $-1 $1272 1 $819 0 $468 $1273 forward @7 unknown F #
+-817 coedge $-1 -1 -1 $-1 $1261 $469 $1258 $1274 reversed $818 $-1 #
+-818 loop $-1 -1 -1 $-1 $-1 $469 $1255 F unknown #
+-819 vertex $-1 -1 -1 $-1 $1274 $1275 #
+-820 vertex $-1 -1 -1 $-1 $812 $1276 #
+-821 straight-curve $-1 -1 -1 $-1 72.499999999998636 21.999999999999996 -400.00000000000023 -1000 0 3.4914813388431333e-12 I I #
+-822 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $472 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-823 face $1277 -1 -1 $-1 $1278 $1279 $99 $-1 $1280 reversed single F F #
+-824 loop $-1 -1 -1 $-1 $-1 $1281 $472 F unknown #
+-825 plane-surface $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 -1 0 3.4914813388431334e-15 3.4914813388431333e-12 0 1000 forward_v I I I I #
+-826 coedge $-1 -1 -1 $-1 $1282 $1283 $1284 $1285 forward $473 $-1 #
+-827 coedge $-1 -1 -1 $-1 $1286 $475 $1283 $1287 reversed $297 $-1 #
+-828 coedge $-1 -1 -1 $-1 $475 $1286 $476 $832 forward $297 $-1 #
+-829 coedge $-1 -1 -1 $-1 $478 $1284 $475 $830 reversed $836 $-1 #
+-830 edge $-1 -1 -1 $-1 $838 1 $1288 0 $475 $1289 forward @7 unknown F #
+-831 coedge $-1 -1 -1 $-1 $477 $476 $1290 $1291 reversed $198 $-1 #
+-832 edge $-1 -1 -1 $-1 $1292 1 $838 0 $828 $1293 forward @7 unknown F #
+-833 coedge $-1 -1 -1 $-1 $1294 $1281 $477 $834 reversed $824 $-1 #
+-834 edge $-1 -1 -1 $-1 $1295 1 $837 0 $477 $1296 forward @7 unknown F #
+-835 coedge $-1 -1 -1 $-1 $1284 $478 $1281 $1297 reversed $836 $-1 #
+-836 loop $-1 -1 -1 $-1 $-1 $478 $1278 F unknown #
+-837 vertex $-1 -1 -1 $-1 $1297 $1298 #
+-838 vertex $-1 -1 -1 $-1 $830 $1299 #
+-839 straight-curve $-1 -1 -1 $-1 72.499999999999773 -100 -72.500000000004178 -1000 0 3.4914813388431333e-12 I I #
+-840 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $481 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-841 face $1300 -1 -1 $-1 $-1 $494 $61 $-1 $1301 forward single F F #
+-842 loop $-1 -1 -1 $-1 $-1 $853 $481 F unknown #
+-843 plane-surface $-1 -1 -1 $-1 0 22 0 0 -1 0 0 0 -1000 forward_v I I I I #
+-844 coedge $-1 -1 -1 $-1 $491 $1302 $493 $860 forward $482 $-1 #
+-845 coedge $-1 -1 -1 $-1 $1303 $484 $1302 $1304 reversed $302 $-1 #
+-846 coedge $-1 -1 -1 $-1 $484 $1303 $485 $850 forward $302 $-1 #
+-847 coedge $-1 -1 -1 $-1 $487 $493 $484 $848 reversed $494 $-1 #
+-848 edge $-1 -1 -1 $-1 $851 1 $1305 0 $484 $1306 forward @7 unknown F #
+-849 coedge $-1 -1 -1 $-1 $486 $485 $1307 $1308 reversed $202 $-1 #
+-850 edge $-1 -1 -1 $-1 $1309 1 $851 0 $846 $1310 forward @7 unknown F #
+-851 vertex $-1 -1 -1 $-1 $488 $1311 #
+-852 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 -1000 -0 -0 I I #
+-853 coedge $-1 -1 -1 $-1 $1307 $1312 $489 $854 forward $842 $-1 #
+-854 edge $-1 -1 -1 $-1 $858 1 $855 0 $853 $1313 forward @7 unknown F #
+-855 vertex $-1 -1 -1 $-1 $1308 $1314 #
+-856 straight-curve $-1 -1 -1 $-1 72.499999999999972 22 -399.99999999999994 -0 -1000 -0 I I #
+-857 coedge $-1 -1 -1 $-1 $1302 $491 $1312 $1315 reversed $482 $-1 #
+-858 vertex $-1 -1 -1 $-1 $1315 $1316 #
+-859 straight-curve $-1 -1 -1 $-1 72.499999999999972 22 400.00000000000006 -0 -1000 -0 I I #
+-860 edge $-1 -1 -1 $-1 $1305 1 $495 0 $844 $1317 forward @7 unknown F #
+-861 point $-1 -1 -1 $-1 72.499999999999972 0 400.00000000000006 #
+-862 point $-1 -1 -1 $-1 72.499999999999972 0 -399.99999999999994 #
+-863 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $499 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-864 face $1318 -1 -1 $-1 $-1 $512 $63 $-1 $1319 forward single F F #
+-865 loop $-1 -1 -1 $-1 $-1 $876 $499 F unknown #
+-866 plane-surface $-1 -1 -1 $-1 -1055 22 5.5511151231257827e-14 0 -1 0 0 0 -1000 forward_v I I I I #
+-867 coedge $-1 -1 -1 $-1 $509 $1320 $511 $883 forward $500 $-1 #
+-868 coedge $-1 -1 -1 $-1 $1321 $502 $1320 $1322 reversed $311 $-1 #
+-869 coedge $-1 -1 -1 $-1 $502 $1321 $503 $873 forward $311 $-1 #
+-870 coedge $-1 -1 -1 $-1 $505 $511 $502 $871 reversed $512 $-1 #
+-871 edge $-1 -1 -1 $-1 $874 1 $1323 0 $502 $1324 forward @7 unknown F #
+-872 coedge $-1 -1 -1 $-1 $504 $503 $1325 $1326 reversed $207 $-1 #
+-873 edge $-1 -1 -1 $-1 $1327 1 $874 0 $869 $1328 forward @7 unknown F #
+-874 vertex $-1 -1 -1 $-1 $506 $1329 #
+-875 straight-curve $-1 -1 -1 $-1 -1127.5 0 -399.99999999999989 -1000 -0 -0 I I #
+-876 coedge $-1 -1 -1 $-1 $1325 $1330 $507 $877 forward $865 $-1 #
+-877 edge $-1 -1 -1 $-1 $881 1 $878 0 $876 $1331 forward @7 unknown F #
+-878 vertex $-1 -1 -1 $-1 $1326 $1332 #
+-879 straight-curve $-1 -1 -1 $-1 -982.5 22 -399.99999999999989 -0 -1000 -0 I I #
+-880 coedge $-1 -1 -1 $-1 $1320 $509 $1330 $1333 reversed $500 $-1 #
+-881 vertex $-1 -1 -1 $-1 $1333 $1334 #
+-882 straight-curve $-1 -1 -1 $-1 -982.5 22 400.00000000000011 -0 -1000 -0 I I #
+-883 edge $-1 -1 -1 $-1 $1323 1 $513 0 $867 $1335 forward @7 unknown F #
+-884 point $-1 -1 -1 $-1 -982.5 0 400.00000000000011 #
+-885 point $-1 -1 -1 $-1 -982.5 0 -399.99999999999989 #
+-886 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $517 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-887 face $1336 -1 -1 $-1 $-1 $530 $65 $-1 $1337 forward single F F #
+-888 loop $-1 -1 -1 $-1 $-1 $899 $517 F unknown #
+-889 plane-surface $-1 -1 -1 $-1 -527.50000000000011 22 -5.5511151231257827e-14 0 -1 0 0 0 -1000 forward_v I I I I #
+-890 coedge $-1 -1 -1 $-1 $527 $1338 $529 $906 forward $518 $-1 #
+-891 coedge $-1 -1 -1 $-1 $1339 $520 $1338 $1340 reversed $320 $-1 #
+-892 coedge $-1 -1 -1 $-1 $520 $1339 $521 $896 forward $320 $-1 #
+-893 coedge $-1 -1 -1 $-1 $523 $529 $520 $894 reversed $530 $-1 #
+-894 edge $-1 -1 -1 $-1 $897 1 $1341 0 $520 $1342 forward @7 unknown F #
+-895 coedge $-1 -1 -1 $-1 $522 $521 $1343 $1344 reversed $212 $-1 #
+-896 edge $-1 -1 -1 $-1 $1345 1 $897 0 $892 $1346 forward @7 unknown F #
+-897 vertex $-1 -1 -1 $-1 $524 $1347 #
+-898 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -400 -1000 -0 -0 I I #
+-899 coedge $-1 -1 -1 $-1 $1343 $1348 $525 $900 forward $888 $-1 #
+-900 edge $-1 -1 -1 $-1 $904 1 $901 0 $899 $1349 forward @7 unknown F #
+-901 vertex $-1 -1 -1 $-1 $1344 $1350 #
+-902 straight-curve $-1 -1 -1 $-1 -455.00000000000011 22 -400 -0 -1000 -0 I I #
+-903 coedge $-1 -1 -1 $-1 $1338 $527 $1348 $1351 reversed $518 $-1 #
+-904 vertex $-1 -1 -1 $-1 $1351 $1352 #
+-905 straight-curve $-1 -1 -1 $-1 -455.00000000000011 22 400 -0 -1000 -0 I I #
+-906 edge $-1 -1 -1 $-1 $1341 1 $531 0 $890 $1353 forward @7 unknown F #
+-907 point $-1 -1 -1 $-1 -455.00000000000011 0 400 #
+-908 point $-1 -1 -1 $-1 -455.00000000000011 0 -400 #
+-909 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $535 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-910 face $1354 -1 -1 $-1 $-1 $548 $67 $-1 $1355 forward single F F #
+-911 loop $-1 -1 -1 $-1 $-1 $922 $535 F unknown #
+-912 plane-surface $-1 -1 -1 $-1 -4.163336342344337e-14 0 -349.99999999999994 0 -1 0 1000 0 0 forward_v I I I I #
+-913 coedge $-1 -1 -1 $-1 $545 $1356 $547 $929 forward $536 $-1 #
+-914 coedge $-1 -1 -1 $-1 $1357 $538 $1356 $1358 reversed $329 $-1 #
+-915 coedge $-1 -1 -1 $-1 $538 $1357 $539 $919 forward $329 $-1 #
+-916 coedge $-1 -1 -1 $-1 $541 $547 $538 $917 reversed $548 $-1 #
+-917 edge $-1 -1 -1 $-1 $920 1 $1359 0 $538 $1360 forward @7 unknown F #
+-918 coedge $-1 -1 -1 $-1 $540 $539 $1361 $1362 reversed $217 $-1 #
+-919 edge $-1 -1 -1 $-1 $1363 1 $920 0 $915 $1364 forward @7 unknown F #
+-920 vertex $-1 -1 -1 $-1 $542 $1365 #
+-921 straight-curve $-1 -1 -1 $-1 72.499999999999972 -78 -399.99999999999994 0 -0 -1000 I I #
+-922 coedge $-1 -1 -1 $-1 $1361 $1366 $543 $923 forward $911 $-1 #
+-923 edge $-1 -1 -1 $-1 $927 1 $924 0 $922 $1367 forward @7 unknown F #
+-924 vertex $-1 -1 -1 $-1 $1362 $1368 #
+-925 straight-curve $-1 -1 -1 $-1 72.499999999999972 0 -299.99999999999994 0 -1000 -0 I I #
+-926 coedge $-1 -1 -1 $-1 $1356 $545 $1366 $1369 reversed $536 $-1 #
+-927 vertex $-1 -1 -1 $-1 $1369 $1370 #
+-928 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -299.99999999999994 0 -1000 -0 I I #
+-929 edge $-1 -1 -1 $-1 $1359 1 $549 0 $913 $1371 forward @7 unknown F #
+-930 point $-1 -1 -1 $-1 -72.500000000000028 -78 -299.99999999999994 #
+-931 point $-1 -1 -1 $-1 72.499999999999972 -78 -299.99999999999994 #
+-932 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $553 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-933 face $1372 -1 -1 $-1 $-1 $566 $69 $-1 $1373 forward single F F #
+-934 loop $-1 -1 -1 $-1 $-1 $945 $553 F unknown #
+-935 plane-surface $-1 -1 -1 $-1 -1055 -1.4210854715202004e-14 -349.99999999999994 0 -1 0 1000 0 0 forward_v I I I I #
+-936 coedge $-1 -1 -1 $-1 $563 $1374 $565 $952 forward $554 $-1 #
+-937 coedge $-1 -1 -1 $-1 $1375 $556 $1374 $1376 reversed $338 $-1 #
+-938 coedge $-1 -1 -1 $-1 $556 $1375 $557 $942 forward $338 $-1 #
+-939 coedge $-1 -1 -1 $-1 $559 $565 $556 $940 reversed $566 $-1 #
+-940 edge $-1 -1 -1 $-1 $943 1 $1377 0 $556 $1378 forward @7 unknown F #
+-941 coedge $-1 -1 -1 $-1 $558 $557 $1379 $1380 reversed $222 $-1 #
+-942 edge $-1 -1 -1 $-1 $1381 1 $943 0 $938 $1382 forward @7 unknown F #
+-943 vertex $-1 -1 -1 $-1 $560 $1383 #
+-944 straight-curve $-1 -1 -1 $-1 -982.5 -78.000000000000014 -399.99999999999994 0 -0 -1000 I I #
+-945 coedge $-1 -1 -1 $-1 $1379 $1384 $561 $946 forward $934 $-1 #
+-946 edge $-1 -1 -1 $-1 $950 1 $947 0 $945 $1385 forward @7 unknown F #
+-947 vertex $-1 -1 -1 $-1 $1380 $1386 #
+-948 straight-curve $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -299.99999999999994 0 -1000 -0 I I #
+-949 coedge $-1 -1 -1 $-1 $1374 $563 $1384 $1387 reversed $554 $-1 #
+-950 vertex $-1 -1 -1 $-1 $1387 $1388 #
+-951 straight-curve $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -299.99999999999994 0 -1000 -0 I I #
+-952 edge $-1 -1 -1 $-1 $1377 1 $567 0 $936 $1389 forward @7 unknown F #
+-953 point $-1 -1 -1 $-1 -1127.5 -78.000000000000014 -299.99999999999994 #
+-954 point $-1 -1 -1 $-1 -982.5 -78.000000000000014 -299.99999999999994 #
+-955 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $571 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-956 face $1390 -1 -1 $-1 $-1 $584 $71 $-1 $1391 forward single F F #
+-957 loop $-1 -1 -1 $-1 $-1 $968 $571 F unknown #
+-958 plane-surface $-1 -1 -1 $-1 -527.50000000000011 0 -350.00000000000006 0 -1 0 -1000 0 -0 forward_v I I I I #
+-959 coedge $-1 -1 -1 $-1 $581 $1392 $583 $975 forward $572 $-1 #
+-960 coedge $-1 -1 -1 $-1 $1393 $574 $1392 $1394 reversed $347 $-1 #
+-961 coedge $-1 -1 -1 $-1 $574 $1393 $575 $965 forward $347 $-1 #
+-962 coedge $-1 -1 -1 $-1 $577 $583 $574 $963 reversed $584 $-1 #
+-963 edge $-1 -1 -1 $-1 $966 1 $1395 0 $574 $1396 forward @7 unknown F #
+-964 coedge $-1 -1 -1 $-1 $576 $575 $1397 $1398 reversed $227 $-1 #
+-965 edge $-1 -1 -1 $-1 $1399 1 $966 0 $961 $1400 forward @7 unknown F #
+-966 vertex $-1 -1 -1 $-1 $578 $1401 #
+-967 straight-curve $-1 -1 -1 $-1 -600.00000000000011 -78 -300.00000000000006 -0 -0 1000 I I #
+-968 coedge $-1 -1 -1 $-1 $1397 $1402 $579 $969 forward $957 $-1 #
+-969 edge $-1 -1 -1 $-1 $973 1 $970 0 $968 $1403 forward @7 unknown F #
+-970 vertex $-1 -1 -1 $-1 $1398 $1404 #
+-971 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -400.00000000000006 -0 -1000 0 I I #
+-972 coedge $-1 -1 -1 $-1 $1392 $581 $1402 $1405 reversed $572 $-1 #
+-973 vertex $-1 -1 -1 $-1 $1405 $1406 #
+-974 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -400.00000000000006 -0 -1000 0 I I #
+-975 edge $-1 -1 -1 $-1 $1395 1 $585 0 $959 $1407 forward @7 unknown F #
+-976 point $-1 -1 -1 $-1 -455.00000000000011 -78 -400.00000000000006 #
+-977 point $-1 -1 -1 $-1 -600.00000000000011 -78 -400.00000000000006 #
+-978 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $589 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-979 face $1408 -1 -1 $-1 $-1 $602 $73 $-1 $1409 forward single F F #
+-980 loop $-1 -1 -1 $-1 $-1 $991 $589 F unknown #
+-981 plane-surface $-1 -1 -1 $-1 -1054.9999999999989 0 350.00000000000381 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-982 coedge $-1 -1 -1 $-1 $599 $1410 $601 $998 forward $590 $-1 #
+-983 coedge $-1 -1 -1 $-1 $1411 $592 $1410 $1412 reversed $356 $-1 #
+-984 coedge $-1 -1 -1 $-1 $592 $1411 $593 $988 forward $356 $-1 #
+-985 coedge $-1 -1 -1 $-1 $595 $601 $592 $986 reversed $602 $-1 #
+-986 edge $-1 -1 -1 $-1 $989 1 $1413 0 $592 $1414 forward @7 unknown F #
+-987 coedge $-1 -1 -1 $-1 $594 $593 $1415 $1416 reversed $232 $-1 #
+-988 edge $-1 -1 -1 $-1 $1417 1 $989 0 $984 $1418 forward @7 unknown F #
+-989 vertex $-1 -1 -1 $-1 $596 $1419 #
+-990 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000404 3.4914813388431333e-12 -0 1000 I I #
+-991 coedge $-1 -1 -1 $-1 $1415 $1420 $597 $992 forward $980 $-1 #
+-992 edge $-1 -1 -1 $-1 $996 1 $993 0 $991 $1421 forward @7 unknown F #
+-993 vertex $-1 -1 -1 $-1 $1416 $1422 #
+-994 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 0 300.00000000000404 0 -1000 0 I I #
+-995 coedge $-1 -1 -1 $-1 $1410 $599 $1420 $1423 reversed $590 $-1 #
+-996 vertex $-1 -1 -1 $-1 $1423 $1424 #
+-997 straight-curve $-1 -1 -1 $-1 -982.49999999999909 0 300.00000000000352 0 -1000 0 I I #
+-998 edge $-1 -1 -1 $-1 $1413 1 $603 0 $982 $1425 forward @7 unknown F #
+-999 point $-1 -1 -1 $-1 -982.49999999999909 -78 300.00000000000352 #
+-1000 point $-1 -1 -1 $-1 -1127.4999999999991 -78 300.00000000000404 #
+-1001 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $607 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1002 face $1426 -1 -1 $-1 $-1 $620 $75 $-1 $1427 forward single F F #
+-1003 loop $-1 -1 -1 $-1 $-1 $1014 $607 F unknown #
+-1004 plane-surface $-1 -1 -1 $-1 -527.49999999999886 0 350.00000000000182 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1005 coedge $-1 -1 -1 $-1 $617 $1428 $619 $1021 forward $608 $-1 #
+-1006 coedge $-1 -1 -1 $-1 $1429 $610 $1428 $1430 reversed $365 $-1 #
+-1007 coedge $-1 -1 -1 $-1 $610 $1429 $611 $1011 forward $365 $-1 #
+-1008 coedge $-1 -1 -1 $-1 $613 $619 $610 $1009 reversed $620 $-1 #
+-1009 edge $-1 -1 -1 $-1 $1012 1 $1431 0 $610 $1432 forward @7 unknown F #
+-1010 coedge $-1 -1 -1 $-1 $612 $611 $1433 $1434 reversed $237 $-1 #
+-1011 edge $-1 -1 -1 $-1 $1435 1 $1012 0 $1007 $1436 forward @7 unknown F #
+-1012 vertex $-1 -1 -1 $-1 $614 $1437 #
+-1013 straight-curve $-1 -1 -1 $-1 -599.99999999999864 -78 400.00000000000205 3.4914813388431333e-12 -0 1000 I I #
+-1014 coedge $-1 -1 -1 $-1 $1433 $1438 $615 $1015 forward $1003 $-1 #
+-1015 edge $-1 -1 -1 $-1 $1019 1 $1016 0 $1014 $1439 forward @7 unknown F #
+-1016 vertex $-1 -1 -1 $-1 $1434 $1440 #
+-1017 straight-curve $-1 -1 -1 $-1 -599.99999999999909 0 300.00000000000205 0 -1000 0 I I #
+-1018 coedge $-1 -1 -1 $-1 $1428 $617 $1438 $1441 reversed $608 $-1 #
+-1019 vertex $-1 -1 -1 $-1 $1441 $1442 #
+-1020 straight-curve $-1 -1 -1 $-1 -454.99999999999909 0 300.00000000000153 0 -1000 0 I I #
+-1021 edge $-1 -1 -1 $-1 $1431 1 $621 0 $1005 $1443 forward @7 unknown F #
+-1022 point $-1 -1 -1 $-1 -454.99999999999909 -78 300.00000000000153 #
+-1023 point $-1 -1 -1 $-1 -599.99999999999909 -78 300.00000000000205 #
+-1024 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $625 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1025 face $1444 -1 -1 $-1 $-1 $638 $77 $-1 $1445 forward single F F #
+-1026 loop $-1 -1 -1 $-1 $-1 $1037 $625 F unknown #
+-1027 plane-surface $-1 -1 -1 $-1 1.214306433183765e-12 0 349.99999999999994 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1028 coedge $-1 -1 -1 $-1 $635 $1446 $637 $1044 forward $626 $-1 #
+-1029 coedge $-1 -1 -1 $-1 $1447 $628 $1446 $1448 reversed $374 $-1 #
+-1030 coedge $-1 -1 -1 $-1 $628 $1447 $629 $1034 forward $374 $-1 #
+-1031 coedge $-1 -1 -1 $-1 $631 $637 $628 $1032 reversed $638 $-1 #
+-1032 edge $-1 -1 -1 $-1 $1035 1 $1449 0 $628 $1450 forward @7 unknown F #
+-1033 coedge $-1 -1 -1 $-1 $630 $629 $1451 $1452 reversed $242 $-1 #
+-1034 edge $-1 -1 -1 $-1 $1453 1 $1035 0 $1030 $1454 forward @7 unknown F #
+-1035 vertex $-1 -1 -1 $-1 $632 $1455 #
+-1036 straight-curve $-1 -1 -1 $-1 -72.499999999998622 -78 400.00000000000017 3.4914813388431333e-12 -0 1000 I I #
+-1037 coedge $-1 -1 -1 $-1 $1451 $1456 $633 $1038 forward $1026 $-1 #
+-1038 edge $-1 -1 -1 $-1 $1042 1 $1039 0 $1037 $1457 forward @7 unknown F #
+-1039 vertex $-1 -1 -1 $-1 $1452 $1458 #
+-1040 straight-curve $-1 -1 -1 $-1 -72.499999999998977 0 300.00000000000017 0 -1000 0 I I #
+-1041 coedge $-1 -1 -1 $-1 $1446 $635 $1456 $1459 reversed $626 $-1 #
+-1042 vertex $-1 -1 -1 $-1 $1459 $1460 #
+-1043 straight-curve $-1 -1 -1 $-1 72.500000000001009 0 299.99999999999966 0 -1000 0 I I #
+-1044 edge $-1 -1 -1 $-1 $1449 1 $639 0 $1028 $1461 forward @7 unknown F #
+-1045 point $-1 -1 -1 $-1 72.500000000001009 -78 299.99999999999966 #
+-1046 point $-1 -1 -1 $-1 -72.499999999998977 -78 300.00000000000017 #
+-1047 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $643 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1048 face $1462 -1 -1 $-1 $-1 $656 $79 $-1 $1463 forward single F F #
+-1049 loop $-1 -1 -1 $-1 $-1 $1060 $643 F unknown #
+-1050 plane-surface $-1 -1 -1 $-1 -527.50000000000011 0 0 0 -1 0 0 0 -1000 forward_v I I I I #
+-1051 coedge $-1 -1 -1 $-1 $653 $1464 $655 $1067 forward $644 $-1 #
+-1052 coedge $-1 -1 -1 $-1 $1465 $646 $1464 $1466 reversed $383 $-1 #
+-1053 coedge $-1 -1 -1 $-1 $646 $1465 $647 $1057 forward $383 $-1 #
+-1054 coedge $-1 -1 -1 $-1 $649 $655 $646 $1055 reversed $656 $-1 #
+-1055 edge $-1 -1 -1 $-1 $1058 1 $1467 0 $646 $1468 forward @7 unknown F #
+-1056 coedge $-1 -1 -1 $-1 $648 $647 $1469 $1470 reversed $247 $-1 #
+-1057 edge $-1 -1 -1 $-1 $1471 1 $1058 0 $1053 $1472 forward @7 unknown F #
+-1058 vertex $-1 -1 -1 $-1 $650 $1473 #
+-1059 straight-curve $-1 -1 -1 $-1 -600.00000000000011 -78 -72.5 -1000 -0 -0 I I #
+-1060 coedge $-1 -1 -1 $-1 $1469 $1474 $651 $1061 forward $1049 $-1 #
+-1061 edge $-1 -1 -1 $-1 $1065 1 $1062 0 $1060 $1475 forward @7 unknown F #
+-1062 vertex $-1 -1 -1 $-1 $1470 $1476 #
+-1063 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -72.5 -0 -1000 -0 I I #
+-1064 coedge $-1 -1 -1 $-1 $1464 $653 $1474 $1477 reversed $644 $-1 #
+-1065 vertex $-1 -1 -1 $-1 $1477 $1478 #
+-1066 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 72.5 -0 -1000 -0 I I #
+-1067 edge $-1 -1 -1 $-1 $1467 1 $657 0 $1051 $1479 forward @7 unknown F #
+-1068 point $-1 -1 -1 $-1 -455.00000000000011 -78 72.5 #
+-1069 point $-1 -1 -1 $-1 -455.00000000000011 -78 -72.5 #
+-1070 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $661 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1071 face $1480 -1 -1 $-1 $-1 $674 $81 $-1 $1481 forward single F F #
+-1072 loop $-1 -1 -1 $-1 $-1 $1083 $661 F unknown #
+-1073 plane-surface $-1 -1 -1 $-1 0 0 2.4286128663675299e-13 0 -1 0 0 0 -1000 forward_v I I I I #
+-1074 coedge $-1 -1 -1 $-1 $671 $1482 $673 $1090 forward $662 $-1 #
+-1075 coedge $-1 -1 -1 $-1 $1483 $664 $1482 $1484 reversed $392 $-1 #
+-1076 coedge $-1 -1 -1 $-1 $664 $1483 $665 $1080 forward $392 $-1 #
+-1077 coedge $-1 -1 -1 $-1 $667 $673 $664 $1078 reversed $674 $-1 #
+-1078 edge $-1 -1 -1 $-1 $1081 1 $1485 0 $664 $1486 forward @7 unknown F #
+-1079 coedge $-1 -1 -1 $-1 $666 $665 $1487 $1488 reversed $252 $-1 #
+-1080 edge $-1 -1 -1 $-1 $1489 1 $1081 0 $1076 $1490 forward @7 unknown F #
+-1081 vertex $-1 -1 -1 $-1 $668 $1491 #
+-1082 straight-curve $-1 -1 -1 $-1 -72.500000000000014 -78 -72.499999999999758 -1000 -0 -0 I I #
+-1083 coedge $-1 -1 -1 $-1 $1487 $1492 $669 $1084 forward $1072 $-1 #
+-1084 edge $-1 -1 -1 $-1 $1088 1 $1085 0 $1083 $1493 forward @7 unknown F #
+-1085 vertex $-1 -1 -1 $-1 $1488 $1494 #
+-1086 straight-curve $-1 -1 -1 $-1 72.499999999999986 0 -72.499999999999758 -0 -1000 -0 I I #
+-1087 coedge $-1 -1 -1 $-1 $1482 $671 $1492 $1495 reversed $662 $-1 #
+-1088 vertex $-1 -1 -1 $-1 $1495 $1496 #
+-1089 straight-curve $-1 -1 -1 $-1 72.499999999999986 0 72.500000000000242 -0 -1000 -0 I I #
+-1090 edge $-1 -1 -1 $-1 $1485 1 $675 0 $1074 $1497 forward @7 unknown F #
+-1091 point $-1 -1 -1 $-1 72.499999999999986 -78 72.500000000000242 #
+-1092 point $-1 -1 -1 $-1 72.499999999999986 -78 -72.499999999999758 #
+-1093 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $679 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1094 face $1498 -1 -1 $-1 $-1 $692 $83 $-1 $1499 forward single F F #
+-1095 loop $-1 -1 -1 $-1 $-1 $1106 $679 F unknown #
+-1096 plane-surface $-1 -1 -1 $-1 -1055 0 -3.9412917374193057e-12 0 -1 0 0 0 -1000 forward_v I I I I #
+-1097 coedge $-1 -1 -1 $-1 $689 $1500 $691 $1113 forward $680 $-1 #
+-1098 coedge $-1 -1 -1 $-1 $1501 $682 $1500 $1502 reversed $401 $-1 #
+-1099 coedge $-1 -1 -1 $-1 $682 $1501 $683 $1103 forward $401 $-1 #
+-1100 coedge $-1 -1 -1 $-1 $685 $691 $682 $1101 reversed $692 $-1 #
+-1101 edge $-1 -1 -1 $-1 $1104 1 $1503 0 $682 $1504 forward @7 unknown F #
+-1102 coedge $-1 -1 -1 $-1 $684 $683 $1505 $1506 reversed $257 $-1 #
+-1103 edge $-1 -1 -1 $-1 $1507 1 $1104 0 $1099 $1508 forward @7 unknown F #
+-1104 vertex $-1 -1 -1 $-1 $686 $1509 #
+-1105 straight-curve $-1 -1 -1 $-1 -1127.5 -78 -72.500000000003936 -1000 -0 -0 I I #
+-1106 coedge $-1 -1 -1 $-1 $1505 $1510 $687 $1107 forward $1095 $-1 #
+-1107 edge $-1 -1 -1 $-1 $1111 1 $1108 0 $1106 $1511 forward @7 unknown F #
+-1108 vertex $-1 -1 -1 $-1 $1506 $1512 #
+-1109 straight-curve $-1 -1 -1 $-1 -982.5 0 -72.500000000003936 -0 -1000 -0 I I #
+-1110 coedge $-1 -1 -1 $-1 $1500 $689 $1510 $1513 reversed $680 $-1 #
+-1111 vertex $-1 -1 -1 $-1 $1513 $1514 #
+-1112 straight-curve $-1 -1 -1 $-1 -982.5 0 72.499999999996064 -0 -1000 -0 I I #
+-1113 edge $-1 -1 -1 $-1 $1503 1 $693 0 $1097 $1515 forward @7 unknown F #
+-1114 point $-1 -1 -1 $-1 -982.5 -78 72.499999999996064 #
+-1115 point $-1 -1 -1 $-1 -982.5 -78 -72.500000000003936 #
+-1116 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $697 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1117 face $1516 -1 -1 $-1 $-1 $710 $85 $-1 $1517 forward single F F #
+-1118 loop $-1 -1 -1 $-1 $-1 $1129 $697 F unknown #
+-1119 plane-surface $-1 -1 -1 $-1 -527.49999999999955 44 163.75000000000196 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1120 coedge $-1 -1 -1 $-1 $707 $1518 $709 $1136 forward $698 $-1 #
+-1121 coedge $-1 -1 -1 $-1 $1519 $700 $1518 $1520 reversed $410 $-1 #
+-1122 coedge $-1 -1 -1 $-1 $700 $1519 $701 $1126 forward $410 $-1 #
+-1123 coedge $-1 -1 -1 $-1 $703 $709 $700 $1124 reversed $710 $-1 #
+-1124 edge $-1 -1 -1 $-1 $1127 1 $1521 0 $700 $1522 forward @7 unknown F #
+-1125 coedge $-1 -1 -1 $-1 $702 $701 $1523 $1524 reversed $262 $-1 #
+-1126 edge $-1 -1 -1 $-1 $1525 1 $1127 0 $1122 $1526 forward @7 unknown F #
+-1127 vertex $-1 -1 -1 $-1 $704 $1527 #
+-1128 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 22 213.75000000000401 3.4914813388431333e-12 -0 1000 I I #
+-1129 coedge $-1 -1 -1 $-1 $1523 $1528 $705 $1130 forward $1118 $-1 #
+-1130 edge $-1 -1 -1 $-1 $1134 1 $1131 0 $1129 $1529 forward @7 unknown F #
+-1131 vertex $-1 -1 -1 $-1 $1524 $1530 #
+-1132 straight-curve $-1 -1 -1 $-1 -1127.4999999999995 44 113.75000000000401 0 -1000 0 I I #
+-1133 coedge $-1 -1 -1 $-1 $1518 $707 $1528 $1531 reversed $698 $-1 #
+-1134 vertex $-1 -1 -1 $-1 $1531 $1532 #
+-1135 straight-curve $-1 -1 -1 $-1 72.500000000000341 44 113.74999999999983 0 -1000 0 I I #
+-1136 edge $-1 -1 -1 $-1 $1521 1 $711 0 $1120 $1533 forward @7 unknown F #
+-1137 point $-1 -1 -1 $-1 72.500000000000341 22 113.74999999999983 #
+-1138 point $-1 -1 -1 $-1 -1127.4999999999995 22 113.75000000000401 #
+-1139 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $715 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1140 face $1534 -1 -1 $-1 $-1 $728 $87 $-1 $1535 forward single F F #
+-1141 loop $-1 -1 -1 $-1 $-1 $1152 $715 F unknown #
+-1142 plane-surface $-1 -1 -1 $-1 -527.5000000000008 44 -163.74999999999807 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1143 coedge $-1 -1 -1 $-1 $725 $1536 $727 $1159 forward $716 $-1 #
+-1144 coedge $-1 -1 -1 $-1 $1537 $718 $1536 $1538 reversed $419 $-1 #
+-1145 coedge $-1 -1 -1 $-1 $718 $1537 $719 $1149 forward $419 $-1 #
+-1146 coedge $-1 -1 -1 $-1 $721 $727 $718 $1147 reversed $728 $-1 #
+-1147 edge $-1 -1 -1 $-1 $1150 1 $1539 0 $718 $1540 forward @7 unknown F #
+-1148 coedge $-1 -1 -1 $-1 $720 $719 $1541 $1542 reversed $267 $-1 #
+-1149 edge $-1 -1 -1 $-1 $1543 1 $1150 0 $1145 $1544 forward @7 unknown F #
+-1150 vertex $-1 -1 -1 $-1 $722 $1545 #
+-1151 straight-curve $-1 -1 -1 $-1 -1127.5000000000005 22 -113.74999999999602 3.4914813388431333e-12 -0 1000 I I #
+-1152 coedge $-1 -1 -1 $-1 $1541 $1546 $723 $1153 forward $1141 $-1 #
+-1153 edge $-1 -1 -1 $-1 $1157 1 $1154 0 $1152 $1547 forward @7 unknown F #
+-1154 vertex $-1 -1 -1 $-1 $1542 $1548 #
+-1155 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 44 -213.74999999999602 0 -1000 0 I I #
+-1156 coedge $-1 -1 -1 $-1 $1536 $725 $1546 $1549 reversed $716 $-1 #
+-1157 vertex $-1 -1 -1 $-1 $1549 $1550 #
+-1158 straight-curve $-1 -1 -1 $-1 72.499999999999091 44 -213.7500000000002 0 -1000 0 I I #
+-1159 edge $-1 -1 -1 $-1 $1539 1 $729 0 $1143 $1551 forward @7 unknown F #
+-1160 point $-1 -1 -1 $-1 72.499999999999091 22 -213.7500000000002 #
+-1161 point $-1 -1 -1 $-1 -1127.5000000000009 22 -213.74999999999602 #
+-1162 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $733 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1163 face $1552 -1 -1 $-1 $-1 $746 $89 $-1 $1553 forward single F F #
+-1164 loop $-1 -1 -1 $-1 $-1 $1175 $733 F unknown #
+-1165 plane-surface $-1 -1 -1 $-1 -527.49999999999898 -78 350.00000000000205 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1166 coedge $-1 -1 -1 $-1 $743 $1554 $745 $1182 forward $734 $-1 #
+-1167 coedge $-1 -1 -1 $-1 $1555 $736 $1554 $1556 reversed $428 $-1 #
+-1168 coedge $-1 -1 -1 $-1 $736 $1555 $737 $1172 forward $428 $-1 #
+-1169 coedge $-1 -1 -1 $-1 $739 $745 $736 $1170 reversed $746 $-1 #
+-1170 edge $-1 -1 -1 $-1 $1173 1 $1557 0 $736 $1558 forward @7 unknown F #
+-1171 coedge $-1 -1 -1 $-1 $738 $737 $1559 $1560 reversed $272 $-1 #
+-1172 edge $-1 -1 -1 $-1 $1561 1 $1173 0 $1168 $1562 forward @7 unknown F #
+-1173 vertex $-1 -1 -1 $-1 $740 $1563 #
+-1174 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 -100 400.00000000000409 3.4914813388431333e-12 -0 1000 I I #
+-1175 coedge $-1 -1 -1 $-1 $1559 $1564 $741 $1176 forward $1164 $-1 #
+-1176 edge $-1 -1 -1 $-1 $1180 1 $1177 0 $1175 $1565 forward @7 unknown F #
+-1177 vertex $-1 -1 -1 $-1 $1560 $1566 #
+-1178 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 -78 300.00000000000409 0 -1000 0 I I #
+-1179 coedge $-1 -1 -1 $-1 $1554 $743 $1564 $1567 reversed $734 $-1 #
+-1180 vertex $-1 -1 -1 $-1 $1567 $1568 #
+-1181 straight-curve $-1 -1 -1 $-1 72.500000000000909 -78 299.99999999999989 0 -1000 0 I I #
+-1182 edge $-1 -1 -1 $-1 $1557 1 $747 0 $1166 $1569 forward @7 unknown F #
+-1183 point $-1 -1 -1 $-1 72.500000000000909 -100 299.99999999999989 #
+-1184 point $-1 -1 -1 $-1 -1127.4999999999991 -100 300.00000000000409 #
+-1185 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $751 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1186 face $1570 -1 -1 $-1 $-1 $764 $91 $-1 $1571 forward single F F #
+-1187 loop $-1 -1 -1 $-1 $-1 $1198 $751 F unknown #
+-1188 plane-surface $-1 -1 -1 $-1 -527.50000000000114 -78 -349.99999999999801 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1189 coedge $-1 -1 -1 $-1 $761 $1572 $763 $1205 forward $752 $-1 #
+-1190 coedge $-1 -1 -1 $-1 $1573 $754 $1572 $1574 reversed $437 $-1 #
+-1191 coedge $-1 -1 -1 $-1 $754 $1573 $755 $1195 forward $437 $-1 #
+-1192 coedge $-1 -1 -1 $-1 $757 $763 $754 $1193 reversed $764 $-1 #
+-1193 edge $-1 -1 -1 $-1 $1196 1 $1575 0 $754 $1576 forward @7 unknown F #
+-1194 coedge $-1 -1 -1 $-1 $756 $755 $1577 $1578 reversed $277 $-1 #
+-1195 edge $-1 -1 -1 $-1 $1579 1 $1196 0 $1191 $1580 forward @7 unknown F #
+-1196 vertex $-1 -1 -1 $-1 $758 $1581 #
+-1197 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 -100 -299.99999999999596 3.4914813388431333e-12 -0 1000 I I #
+-1198 coedge $-1 -1 -1 $-1 $1577 $1582 $759 $1199 forward $1187 $-1 #
+-1199 edge $-1 -1 -1 $-1 $1203 1 $1200 0 $1198 $1583 forward @7 unknown F #
+-1200 vertex $-1 -1 -1 $-1 $1578 $1584 #
+-1201 straight-curve $-1 -1 -1 $-1 -1127.5000000000014 -78 -399.99999999999596 0 -1000 0 I I #
+-1202 coedge $-1 -1 -1 $-1 $1572 $761 $1582 $1585 reversed $752 $-1 #
+-1203 vertex $-1 -1 -1 $-1 $1585 $1586 #
+-1204 straight-curve $-1 -1 -1 $-1 72.499999999998749 -78 -400.00000000000017 0 -1000 0 I I #
+-1205 edge $-1 -1 -1 $-1 $1575 1 $765 0 $1189 $1587 forward @7 unknown F #
+-1206 point $-1 -1 -1 $-1 72.499999999998749 -100 -400.00000000000017 #
+-1207 point $-1 -1 -1 $-1 -1127.5000000000014 -100 -399.99999999999596 #
+-1208 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $769 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1209 face $1588 -1 -1 $-1 $-1 $782 $93 $-1 $1589 forward single F F #
+-1210 loop $-1 -1 -1 $-1 $-1 $1221 $769 F unknown #
+-1211 plane-surface $-1 -1 -1 $-1 -527.49999999999875 44 327.50000000000188 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1212 coedge $-1 -1 -1 $-1 $779 $1590 $781 $1228 forward $770 $-1 #
+-1213 coedge $-1 -1 -1 $-1 $1591 $772 $1590 $1592 reversed $446 $-1 #
+-1214 coedge $-1 -1 -1 $-1 $772 $1591 $773 $1218 forward $446 $-1 #
+-1215 coedge $-1 -1 -1 $-1 $775 $781 $772 $1216 reversed $782 $-1 #
+-1216 edge $-1 -1 -1 $-1 $1219 1 $1593 0 $772 $1594 forward @7 unknown F #
+-1217 coedge $-1 -1 -1 $-1 $774 $773 $1595 $1596 reversed $282 $-1 #
+-1218 edge $-1 -1 -1 $-1 $1597 1 $1219 0 $1214 $1598 forward @7 unknown F #
+-1219 vertex $-1 -1 -1 $-1 $776 $1599 #
+-1220 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 21.999999999999996 400.00000000000398 3.4914813388431333e-12 -0 1000 I I #
+-1221 coedge $-1 -1 -1 $-1 $1595 $1600 $777 $1222 forward $1210 $-1 #
+-1222 edge $-1 -1 -1 $-1 $1226 1 $1223 0 $1221 $1601 forward @7 unknown F #
+-1223 vertex $-1 -1 -1 $-1 $1596 $1602 #
+-1224 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 44 255.00000000000398 0 -1000 0 I I #
+-1225 coedge $-1 -1 -1 $-1 $1590 $779 $1600 $1603 reversed $770 $-1 #
+-1226 vertex $-1 -1 -1 $-1 $1603 $1604 #
+-1227 straight-curve $-1 -1 -1 $-1 72.500000000000909 44 254.99999999999977 0 -1000 0 I I #
+-1228 edge $-1 -1 -1 $-1 $1593 1 $783 0 $1212 $1605 forward @7 unknown F #
+-1229 point $-1 -1 -1 $-1 72.500000000000909 21.999999999999996 254.99999999999977 #
+-1230 point $-1 -1 -1 $-1 -1127.4999999999991 21.999999999999996 255.00000000000398 #
+-1231 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $787 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1232 face $1606 -1 -1 $-1 $-1 $800 $95 $-1 $1607 forward single F F #
+-1233 loop $-1 -1 -1 $-1 $-1 $1244 $787 F unknown #
+-1234 plane-surface $-1 -1 -1 $-1 -527.49999999999989 44 1.8941378648292007e-12 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1235 coedge $-1 -1 -1 $-1 $797 $1608 $799 $1251 forward $788 $-1 #
+-1236 coedge $-1 -1 -1 $-1 $1609 $790 $1608 $1610 reversed $455 $-1 #
+-1237 coedge $-1 -1 -1 $-1 $790 $1609 $791 $1241 forward $455 $-1 #
+-1238 coedge $-1 -1 -1 $-1 $793 $799 $790 $1239 reversed $800 $-1 #
+-1239 edge $-1 -1 -1 $-1 $1242 1 $1611 0 $790 $1612 forward @7 unknown F #
+-1240 coedge $-1 -1 -1 $-1 $792 $791 $1613 $1614 reversed $287 $-1 #
+-1241 edge $-1 -1 -1 $-1 $1615 1 $1242 0 $1237 $1616 forward @7 unknown F #
+-1242 vertex $-1 -1 -1 $-1 $794 $1617 #
+-1243 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 22 72.500000000003979 3.4914813388431333e-12 -0 1000 I I #
+-1244 coedge $-1 -1 -1 $-1 $1613 $1618 $795 $1245 forward $1233 $-1 #
+-1245 edge $-1 -1 -1 $-1 $1249 1 $1246 0 $1244 $1619 forward @7 unknown F #
+-1246 vertex $-1 -1 -1 $-1 $1614 $1620 #
+-1247 straight-curve $-1 -1 -1 $-1 -1127.5000000000002 44 -72.499999999996007 0 -1000 0 I I #
+-1248 coedge $-1 -1 -1 $-1 $1608 $797 $1618 $1621 reversed $788 $-1 #
+-1249 vertex $-1 -1 -1 $-1 $1621 $1622 #
+-1250 straight-curve $-1 -1 -1 $-1 72.499999999999773 44 -72.500000000000199 0 -1000 0 I I #
+-1251 edge $-1 -1 -1 $-1 $1611 1 $801 0 $1235 $1623 forward @7 unknown F #
+-1252 point $-1 -1 -1 $-1 72.499999999999773 22 -72.500000000000199 #
+-1253 point $-1 -1 -1 $-1 -1127.5000000000002 22 -72.499999999996007 #
+-1254 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $805 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1255 face $1624 -1 -1 $-1 $-1 $818 $97 $-1 $1625 forward single F F #
+-1256 loop $-1 -1 -1 $-1 $-1 $1267 $805 F unknown #
+-1257 plane-surface $-1 -1 -1 $-1 -527.50000000000102 44 -327.49999999999812 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1258 coedge $-1 -1 -1 $-1 $815 $1626 $817 $1274 forward $806 $-1 #
+-1259 coedge $-1 -1 -1 $-1 $1627 $808 $1626 $1628 reversed $464 $-1 #
+-1260 coedge $-1 -1 -1 $-1 $808 $1627 $809 $1264 forward $464 $-1 #
+-1261 coedge $-1 -1 -1 $-1 $811 $817 $808 $1262 reversed $818 $-1 #
+-1262 edge $-1 -1 -1 $-1 $1265 1 $1629 0 $808 $1630 forward @7 unknown F #
+-1263 coedge $-1 -1 -1 $-1 $810 $809 $1631 $1632 reversed $292 $-1 #
+-1264 edge $-1 -1 -1 $-1 $1633 1 $1265 0 $1260 $1634 forward @7 unknown F #
+-1265 vertex $-1 -1 -1 $-1 $812 $1635 #
+-1266 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 21.999999999999996 -254.99999999999602 3.4914813388431333e-12 -0 1000 I I #
+-1267 coedge $-1 -1 -1 $-1 $1631 $1636 $813 $1268 forward $1256 $-1 #
+-1268 edge $-1 -1 -1 $-1 $1272 1 $1269 0 $1267 $1637 forward @7 unknown F #
+-1269 vertex $-1 -1 -1 $-1 $1632 $1638 #
+-1270 straight-curve $-1 -1 -1 $-1 -1127.5000000000014 44 -399.99999999999602 0 -1000 0 I I #
+-1271 coedge $-1 -1 -1 $-1 $1626 $815 $1636 $1639 reversed $806 $-1 #
+-1272 vertex $-1 -1 -1 $-1 $1639 $1640 #
+-1273 straight-curve $-1 -1 -1 $-1 72.499999999998636 44 -400.00000000000023 0 -1000 0 I I #
+-1274 edge $-1 -1 -1 $-1 $1629 1 $819 0 $1258 $1641 forward @7 unknown F #
+-1275 point $-1 -1 -1 $-1 72.499999999998636 21.999999999999996 -400.00000000000023 #
+-1276 point $-1 -1 -1 $-1 -1127.5000000000014 21.999999999999996 -399.99999999999602 #
+-1277 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $823 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1278 face $1642 -1 -1 $-1 $-1 $836 $99 $-1 $1643 forward single F F #
+-1279 loop $-1 -1 -1 $-1 $-1 $1290 $823 F unknown #
+-1280 plane-surface $-1 -1 -1 $-1 -527.49999999999989 -78 -2.095545958979983e-12 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1281 coedge $-1 -1 -1 $-1 $833 $1644 $835 $1297 forward $824 $-1 #
+-1282 coedge $-1 -1 -1 $-1 $1645 $826 $1644 $1646 reversed $473 $-1 #
+-1283 coedge $-1 -1 -1 $-1 $826 $1645 $827 $1287 forward $473 $-1 #
+-1284 coedge $-1 -1 -1 $-1 $829 $835 $826 $1285 reversed $836 $-1 #
+-1285 edge $-1 -1 -1 $-1 $1288 1 $1647 0 $826 $1648 forward @7 unknown F #
+-1286 coedge $-1 -1 -1 $-1 $828 $827 $1649 $1650 reversed $297 $-1 #
+-1287 edge $-1 -1 -1 $-1 $1651 1 $1288 0 $1283 $1652 forward @7 unknown F #
+-1288 vertex $-1 -1 -1 $-1 $830 $1653 #
+-1289 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 -100 72.5 3.4914813388431333e-12 -0 1000 I I #
+-1290 coedge $-1 -1 -1 $-1 $1649 $1654 $831 $1291 forward $1279 $-1 #
+-1291 edge $-1 -1 -1 $-1 $1295 1 $1292 0 $1290 $1655 forward @7 unknown F #
+-1292 vertex $-1 -1 -1 $-1 $1650 $1656 #
+-1293 straight-curve $-1 -1 -1 $-1 -1127.5000000000002 -78 -72.499999999999986 0 -1000 0 I I #
+-1294 coedge $-1 -1 -1 $-1 $1644 $833 $1654 $1657 reversed $824 $-1 #
+-1295 vertex $-1 -1 -1 $-1 $1657 $1658 #
+-1296 straight-curve $-1 -1 -1 $-1 72.499999999999773 -78 -72.500000000004178 0 -1000 0 I I #
+-1297 edge $-1 -1 -1 $-1 $1647 1 $837 0 $1281 $1659 forward @7 unknown F #
+-1298 point $-1 -1 -1 $-1 72.499999999999773 -100 -72.500000000004178 #
+-1299 point $-1 -1 -1 $-1 -1127.5000000000002 -100 -72.499999999999986 #
+-1300 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $841 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1301 plane-surface $-1 -1 -1 $-1 0 0 0 0 -1 0 0 0 -1000 forward_v I I I I #
+-1302 coedge $-1 -1 -1 $-1 $844 $857 $845 $1304 forward $482 $-1 #
+-1303 coedge $-1 -1 -1 $-1 $846 $845 $1660 $1661 reversed $302 $-1 #
+-1304 edge $-1 -1 -1 $-1 $1662 1 $1305 0 $1302 $1663 forward @7 unknown F #
+-1305 vertex $-1 -1 -1 $-1 $848 $1664 #
+-1306 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 400.00000000000006 0 0 1000 I I #
+-1307 coedge $-1 -1 -1 $-1 $1660 $853 $849 $1308 forward $842 $-1 #
+-1308 edge $-1 -1 -1 $-1 $855 1 $1309 0 $1307 $1665 forward @7 unknown F #
+-1309 vertex $-1 -1 -1 $-1 $1308 $1666 #
+-1310 straight-curve $-1 -1 -1 $-1 -72.500000000000028 22 -399.99999999999994 -0 -1000 -0 I I #
+-1311 point $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 #
+-1312 coedge $-1 -1 -1 $-1 $853 $1660 $857 $1315 forward $842 $-1 #
+-1313 straight-curve $-1 -1 -1 $-1 72.499999999999972 22 400.00000000000006 0 0 -1000 I I #
+-1314 point $-1 -1 -1 $-1 72.499999999999972 22 -399.99999999999994 #
+-1315 edge $-1 -1 -1 $-1 $1662 1 $858 0 $1312 $1667 forward @7 unknown F #
+-1316 point $-1 -1 -1 $-1 72.499999999999972 22 400.00000000000006 #
+-1317 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 400.00000000000006 1000 0 0 I I #
+-1318 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $864 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1319 plane-surface $-1 -1 -1 $-1 -1055 0 5.5511151231257827e-14 0 -1 0 0 0 -1000 forward_v I I I I #
+-1320 coedge $-1 -1 -1 $-1 $867 $880 $868 $1322 forward $500 $-1 #
+-1321 coedge $-1 -1 -1 $-1 $869 $868 $1668 $1669 reversed $311 $-1 #
+-1322 edge $-1 -1 -1 $-1 $1670 1 $1323 0 $1320 $1671 forward @7 unknown F #
+-1323 vertex $-1 -1 -1 $-1 $871 $1672 #
+-1324 straight-curve $-1 -1 -1 $-1 -1127.5 0 400.00000000000011 0 0 1000 I I #
+-1325 coedge $-1 -1 -1 $-1 $1668 $876 $872 $1326 forward $865 $-1 #
+-1326 edge $-1 -1 -1 $-1 $878 1 $1327 0 $1325 $1673 forward @7 unknown F #
+-1327 vertex $-1 -1 -1 $-1 $1326 $1674 #
+-1328 straight-curve $-1 -1 -1 $-1 -1127.5 22 -399.99999999999989 -0 -1000 -0 I I #
+-1329 point $-1 -1 -1 $-1 -1127.5 0 -399.99999999999989 #
+-1330 coedge $-1 -1 -1 $-1 $876 $1668 $880 $1333 forward $865 $-1 #
+-1331 straight-curve $-1 -1 -1 $-1 -982.5 22 400.00000000000011 0 0 -1000 I I #
+-1332 point $-1 -1 -1 $-1 -982.5 22 -399.99999999999989 #
+-1333 edge $-1 -1 -1 $-1 $1670 1 $881 0 $1330 $1675 forward @7 unknown F #
+-1334 point $-1 -1 -1 $-1 -982.5 22 400.00000000000011 #
+-1335 straight-curve $-1 -1 -1 $-1 -1127.5 0 400.00000000000011 1000 0 0 I I #
+-1336 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $887 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1337 plane-surface $-1 -1 -1 $-1 -527.50000000000011 0 -5.5511151231257827e-14 0 -1 0 0 0 -1000 forward_v I I I I #
+-1338 coedge $-1 -1 -1 $-1 $890 $903 $891 $1340 forward $518 $-1 #
+-1339 coedge $-1 -1 -1 $-1 $892 $891 $1676 $1677 reversed $320 $-1 #
+-1340 edge $-1 -1 -1 $-1 $1678 1 $1341 0 $1338 $1679 forward @7 unknown F #
+-1341 vertex $-1 -1 -1 $-1 $894 $1680 #
+-1342 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 400 0 0 1000 I I #
+-1343 coedge $-1 -1 -1 $-1 $1676 $899 $895 $1344 forward $888 $-1 #
+-1344 edge $-1 -1 -1 $-1 $901 1 $1345 0 $1343 $1681 forward @7 unknown F #
+-1345 vertex $-1 -1 -1 $-1 $1344 $1682 #
+-1346 straight-curve $-1 -1 -1 $-1 -600.00000000000011 22 -400 -0 -1000 -0 I I #
+-1347 point $-1 -1 -1 $-1 -600.00000000000011 0 -400 #
+-1348 coedge $-1 -1 -1 $-1 $899 $1676 $903 $1351 forward $888 $-1 #
+-1349 straight-curve $-1 -1 -1 $-1 -455.00000000000011 22 400 0 0 -1000 I I #
+-1350 point $-1 -1 -1 $-1 -455.00000000000011 22 -400 #
+-1351 edge $-1 -1 -1 $-1 $1678 1 $904 0 $1348 $1683 forward @7 unknown F #
+-1352 point $-1 -1 -1 $-1 -455.00000000000011 22 400 #
+-1353 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 400 1000 0 0 I I #
+-1354 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $910 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1355 plane-surface $-1 -1 -1 $-1 -4.163336342344337e-14 -78 -349.99999999999994 0 -1 0 1000 0 0 forward_v I I I I #
+-1356 coedge $-1 -1 -1 $-1 $913 $926 $914 $1358 forward $536 $-1 #
+-1357 coedge $-1 -1 -1 $-1 $915 $914 $1684 $1685 reversed $329 $-1 #
+-1358 edge $-1 -1 -1 $-1 $1686 1 $1359 0 $1356 $1687 forward @7 unknown F #
+-1359 vertex $-1 -1 -1 $-1 $917 $1688 #
+-1360 straight-curve $-1 -1 -1 $-1 -72.500000000000028 -78 -399.99999999999994 -1000 0 0 I I #
+-1361 coedge $-1 -1 -1 $-1 $1684 $922 $918 $1362 forward $911 $-1 #
+-1362 edge $-1 -1 -1 $-1 $924 1 $1363 0 $1361 $1689 forward @7 unknown F #
+-1363 vertex $-1 -1 -1 $-1 $1362 $1690 #
+-1364 straight-curve $-1 -1 -1 $-1 72.499999999999972 0 -399.99999999999994 0 -1000 -0 I I #
+-1365 point $-1 -1 -1 $-1 72.499999999999972 -78 -399.99999999999994 #
+-1366 coedge $-1 -1 -1 $-1 $922 $1684 $926 $1369 forward $911 $-1 #
+-1367 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -299.99999999999994 1000 0 0 I I #
+-1368 point $-1 -1 -1 $-1 72.499999999999972 0 -299.99999999999994 #
+-1369 edge $-1 -1 -1 $-1 $1686 1 $927 0 $1366 $1691 forward @7 unknown F #
+-1370 point $-1 -1 -1 $-1 -72.500000000000028 0 -299.99999999999994 #
+-1371 straight-curve $-1 -1 -1 $-1 -72.500000000000028 -78 -399.99999999999994 0 0 1000 I I #
+-1372 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $933 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1373 plane-surface $-1 -1 -1 $-1 -1055 -78.000000000000014 -349.99999999999994 0 -1 0 1000 0 0 forward_v I I I I #
+-1374 coedge $-1 -1 -1 $-1 $936 $949 $937 $1376 forward $554 $-1 #
+-1375 coedge $-1 -1 -1 $-1 $938 $937 $1692 $1693 reversed $338 $-1 #
+-1376 edge $-1 -1 -1 $-1 $1694 1 $1377 0 $1374 $1695 forward @7 unknown F #
+-1377 vertex $-1 -1 -1 $-1 $940 $1696 #
+-1378 straight-curve $-1 -1 -1 $-1 -1127.5 -78.000000000000014 -399.99999999999994 -1000 0 0 I I #
+-1379 coedge $-1 -1 -1 $-1 $1692 $945 $941 $1380 forward $934 $-1 #
+-1380 edge $-1 -1 -1 $-1 $947 1 $1381 0 $1379 $1697 forward @7 unknown F #
+-1381 vertex $-1 -1 -1 $-1 $1380 $1698 #
+-1382 straight-curve $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -399.99999999999994 0 -1000 -0 I I #
+-1383 point $-1 -1 -1 $-1 -982.5 -78.000000000000014 -399.99999999999994 #
+-1384 coedge $-1 -1 -1 $-1 $945 $1692 $949 $1387 forward $934 $-1 #
+-1385 straight-curve $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -299.99999999999994 1000 0 0 I I #
+-1386 point $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -299.99999999999994 #
+-1387 edge $-1 -1 -1 $-1 $1694 1 $950 0 $1384 $1699 forward @7 unknown F #
+-1388 point $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -299.99999999999994 #
+-1389 straight-curve $-1 -1 -1 $-1 -1127.5 -78.000000000000014 -399.99999999999994 0 0 1000 I I #
+-1390 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $956 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1391 plane-surface $-1 -1 -1 $-1 -527.50000000000011 -78 -350.00000000000006 0 -1 0 -1000 0 -0 forward_v I I I I #
+-1392 coedge $-1 -1 -1 $-1 $959 $972 $960 $1394 forward $572 $-1 #
+-1393 coedge $-1 -1 -1 $-1 $961 $960 $1700 $1701 reversed $347 $-1 #
+-1394 edge $-1 -1 -1 $-1 $1702 1 $1395 0 $1392 $1703 forward @7 unknown F #
+-1395 vertex $-1 -1 -1 $-1 $963 $1704 #
+-1396 straight-curve $-1 -1 -1 $-1 -455.00000000000011 -78 -300.00000000000006 1000 0 0 I I #
+-1397 coedge $-1 -1 -1 $-1 $1700 $968 $964 $1398 forward $957 $-1 #
+-1398 edge $-1 -1 -1 $-1 $970 1 $1399 0 $1397 $1705 forward @7 unknown F #
+-1399 vertex $-1 -1 -1 $-1 $1398 $1706 #
+-1400 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -300.00000000000006 -0 -1000 0 I I #
+-1401 point $-1 -1 -1 $-1 -600.00000000000011 -78 -300.00000000000006 #
+-1402 coedge $-1 -1 -1 $-1 $968 $1700 $972 $1405 forward $957 $-1 #
+-1403 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -400.00000000000006 -1000 0 0 I I #
+-1404 point $-1 -1 -1 $-1 -600.00000000000011 0 -400.00000000000006 #
+-1405 edge $-1 -1 -1 $-1 $1702 1 $973 0 $1402 $1707 forward @7 unknown F #
+-1406 point $-1 -1 -1 $-1 -455.00000000000011 0 -400.00000000000006 #
+-1407 straight-curve $-1 -1 -1 $-1 -455.00000000000011 -78 -300.00000000000006 0 0 -1000 I I #
+-1408 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $979 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1409 plane-surface $-1 -1 -1 $-1 -1054.9999999999989 -78 350.00000000000381 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1410 coedge $-1 -1 -1 $-1 $982 $995 $983 $1412 forward $590 $-1 #
+-1411 coedge $-1 -1 -1 $-1 $984 $983 $1708 $1709 reversed $356 $-1 #
+-1412 edge $-1 -1 -1 $-1 $1710 1 $1413 0 $1410 $1711 forward @7 unknown F #
+-1413 vertex $-1 -1 -1 $-1 $986 $1712 #
+-1414 straight-curve $-1 -1 -1 $-1 -982.49999999999875 -78 400.00000000000352 1000 0 -3.4914813388431333e-12 I I #
+-1415 coedge $-1 -1 -1 $-1 $1708 $991 $987 $1416 forward $980 $-1 #
+-1416 edge $-1 -1 -1 $-1 $993 1 $1417 0 $1415 $1713 forward @7 unknown F #
+-1417 vertex $-1 -1 -1 $-1 $1416 $1714 #
+-1418 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 0 400.00000000000404 0 -1000 0 I I #
+-1419 point $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000404 #
+-1420 coedge $-1 -1 -1 $-1 $991 $1708 $995 $1423 forward $980 $-1 #
+-1421 straight-curve $-1 -1 -1 $-1 -982.49999999999909 0 300.00000000000352 -1000 0 3.4914813388431333e-12 I I #
+-1422 point $-1 -1 -1 $-1 -1127.4999999999991 0 300.00000000000404 #
+-1423 edge $-1 -1 -1 $-1 $1710 1 $996 0 $1420 $1715 forward @7 unknown F #
+-1424 point $-1 -1 -1 $-1 -982.49999999999909 0 300.00000000000352 #
+-1425 straight-curve $-1 -1 -1 $-1 -982.49999999999875 -78 400.00000000000352 -3.4914813388431333e-12 0 -1000 I I #
+-1426 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1002 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1427 plane-surface $-1 -1 -1 $-1 -527.49999999999886 -78 350.00000000000182 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1428 coedge $-1 -1 -1 $-1 $1005 $1018 $1006 $1430 forward $608 $-1 #
+-1429 coedge $-1 -1 -1 $-1 $1007 $1006 $1716 $1717 reversed $365 $-1 #
+-1430 edge $-1 -1 -1 $-1 $1718 1 $1431 0 $1428 $1719 forward @7 unknown F #
+-1431 vertex $-1 -1 -1 $-1 $1009 $1720 #
+-1432 straight-curve $-1 -1 -1 $-1 -454.99999999999869 -78 400.00000000000159 1000 0 -3.4914813388431333e-12 I I #
+-1433 coedge $-1 -1 -1 $-1 $1716 $1014 $1010 $1434 forward $1003 $-1 #
+-1434 edge $-1 -1 -1 $-1 $1016 1 $1435 0 $1433 $1721 forward @7 unknown F #
+-1435 vertex $-1 -1 -1 $-1 $1434 $1722 #
+-1436 straight-curve $-1 -1 -1 $-1 -599.99999999999864 0 400.00000000000205 0 -1000 0 I I #
+-1437 point $-1 -1 -1 $-1 -599.99999999999864 -78 400.00000000000205 #
+-1438 coedge $-1 -1 -1 $-1 $1014 $1716 $1018 $1441 forward $1003 $-1 #
+-1439 straight-curve $-1 -1 -1 $-1 -454.99999999999909 0 300.00000000000153 -1000 0 3.4914813388431333e-12 I I #
+-1440 point $-1 -1 -1 $-1 -599.99999999999909 0 300.00000000000205 #
+-1441 edge $-1 -1 -1 $-1 $1718 1 $1019 0 $1438 $1723 forward @7 unknown F #
+-1442 point $-1 -1 -1 $-1 -454.99999999999909 0 300.00000000000153 #
+-1443 straight-curve $-1 -1 -1 $-1 -454.99999999999869 -78 400.00000000000159 -3.4914813388431333e-12 0 -1000 I I #
+-1444 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1025 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1445 plane-surface $-1 -1 -1 $-1 1.214306433183765e-12 -78 349.99999999999994 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1446 coedge $-1 -1 -1 $-1 $1028 $1041 $1029 $1448 forward $626 $-1 #
+-1447 coedge $-1 -1 -1 $-1 $1030 $1029 $1724 $1725 reversed $374 $-1 #
+-1448 edge $-1 -1 -1 $-1 $1726 1 $1449 0 $1446 $1727 forward @7 unknown F #
+-1449 vertex $-1 -1 -1 $-1 $1032 $1728 #
+-1450 straight-curve $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999966 1000 0 -3.4914813388431333e-12 I I #
+-1451 coedge $-1 -1 -1 $-1 $1724 $1037 $1033 $1452 forward $1026 $-1 #
+-1452 edge $-1 -1 -1 $-1 $1039 1 $1453 0 $1451 $1729 forward @7 unknown F #
+-1453 vertex $-1 -1 -1 $-1 $1452 $1730 #
+-1454 straight-curve $-1 -1 -1 $-1 -72.499999999998622 0 400.00000000000017 0 -1000 0 I I #
+-1455 point $-1 -1 -1 $-1 -72.499999999998622 -78 400.00000000000017 #
+-1456 coedge $-1 -1 -1 $-1 $1037 $1724 $1041 $1459 forward $1026 $-1 #
+-1457 straight-curve $-1 -1 -1 $-1 72.500000000001009 0 299.99999999999966 -1000 0 3.4914813388431333e-12 I I #
+-1458 point $-1 -1 -1 $-1 -72.499999999998977 0 300.00000000000017 #
+-1459 edge $-1 -1 -1 $-1 $1726 1 $1042 0 $1456 $1731 forward @7 unknown F #
+-1460 point $-1 -1 -1 $-1 72.500000000001009 0 299.99999999999966 #
+-1461 straight-curve $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999966 -3.4914813388431333e-12 0 -1000 I I #
+-1462 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1048 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1463 plane-surface $-1 -1 -1 $-1 -527.50000000000011 -78 0 0 -1 0 0 0 -1000 forward_v I I I I #
+-1464 coedge $-1 -1 -1 $-1 $1051 $1064 $1052 $1466 forward $644 $-1 #
+-1465 coedge $-1 -1 -1 $-1 $1053 $1052 $1732 $1733 reversed $383 $-1 #
+-1466 edge $-1 -1 -1 $-1 $1734 1 $1467 0 $1464 $1735 forward @7 unknown F #
+-1467 vertex $-1 -1 -1 $-1 $1055 $1736 #
+-1468 straight-curve $-1 -1 -1 $-1 -600.00000000000011 -78 72.5 0 0 1000 I I #
+-1469 coedge $-1 -1 -1 $-1 $1732 $1060 $1056 $1470 forward $1049 $-1 #
+-1470 edge $-1 -1 -1 $-1 $1062 1 $1471 0 $1469 $1737 forward @7 unknown F #
+-1471 vertex $-1 -1 -1 $-1 $1470 $1738 #
+-1472 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -72.5 -0 -1000 -0 I I #
+-1473 point $-1 -1 -1 $-1 -600.00000000000011 -78 -72.5 #
+-1474 coedge $-1 -1 -1 $-1 $1060 $1732 $1064 $1477 forward $1049 $-1 #
+-1475 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 72.5 0 0 -1000 I I #
+-1476 point $-1 -1 -1 $-1 -455.00000000000011 0 -72.5 #
+-1477 edge $-1 -1 -1 $-1 $1734 1 $1065 0 $1474 $1739 forward @7 unknown F #
+-1478 point $-1 -1 -1 $-1 -455.00000000000011 0 72.5 #
+-1479 straight-curve $-1 -1 -1 $-1 -600.00000000000011 -78 72.5 1000 0 0 I I #
+-1480 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1071 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1481 plane-surface $-1 -1 -1 $-1 0 -78 2.4286128663675299e-13 0 -1 0 0 0 -1000 forward_v I I I I #
+-1482 coedge $-1 -1 -1 $-1 $1074 $1087 $1075 $1484 forward $662 $-1 #
+-1483 coedge $-1 -1 -1 $-1 $1076 $1075 $1740 $1741 reversed $392 $-1 #
+-1484 edge $-1 -1 -1 $-1 $1742 1 $1485 0 $1482 $1743 forward @7 unknown F #
+-1485 vertex $-1 -1 -1 $-1 $1078 $1744 #
+-1486 straight-curve $-1 -1 -1 $-1 -72.500000000000014 -78 72.500000000000242 0 0 1000 I I #
+-1487 coedge $-1 -1 -1 $-1 $1740 $1083 $1079 $1488 forward $1072 $-1 #
+-1488 edge $-1 -1 -1 $-1 $1085 1 $1489 0 $1487 $1745 forward @7 unknown F #
+-1489 vertex $-1 -1 -1 $-1 $1488 $1746 #
+-1490 straight-curve $-1 -1 -1 $-1 -72.500000000000014 0 -72.499999999999758 -0 -1000 -0 I I #
+-1491 point $-1 -1 -1 $-1 -72.500000000000014 -78 -72.499999999999758 #
+-1492 coedge $-1 -1 -1 $-1 $1083 $1740 $1087 $1495 forward $1072 $-1 #
+-1493 straight-curve $-1 -1 -1 $-1 72.499999999999986 0 72.500000000000242 0 0 -1000 I I #
+-1494 point $-1 -1 -1 $-1 72.499999999999986 0 -72.499999999999758 #
+-1495 edge $-1 -1 -1 $-1 $1742 1 $1088 0 $1492 $1747 forward @7 unknown F #
+-1496 point $-1 -1 -1 $-1 72.499999999999986 0 72.500000000000242 #
+-1497 straight-curve $-1 -1 -1 $-1 -72.500000000000014 -78 72.500000000000242 1000 0 0 I I #
+-1498 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1094 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1499 plane-surface $-1 -1 -1 $-1 -1055 -78 -3.9412917374193057e-12 0 -1 0 0 0 -1000 forward_v I I I I #
+-1500 coedge $-1 -1 -1 $-1 $1097 $1110 $1098 $1502 forward $680 $-1 #
+-1501 coedge $-1 -1 -1 $-1 $1099 $1098 $1748 $1749 reversed $401 $-1 #
+-1502 edge $-1 -1 -1 $-1 $1750 1 $1503 0 $1500 $1751 forward @7 unknown F #
+-1503 vertex $-1 -1 -1 $-1 $1101 $1752 #
+-1504 straight-curve $-1 -1 -1 $-1 -1127.5 -78 72.499999999996064 0 0 1000 I I #
+-1505 coedge $-1 -1 -1 $-1 $1748 $1106 $1102 $1506 forward $1095 $-1 #
+-1506 edge $-1 -1 -1 $-1 $1108 1 $1507 0 $1505 $1753 forward @7 unknown F #
+-1507 vertex $-1 -1 -1 $-1 $1506 $1754 #
+-1508 straight-curve $-1 -1 -1 $-1 -1127.5 0 -72.500000000003936 -0 -1000 -0 I I #
+-1509 point $-1 -1 -1 $-1 -1127.5 -78 -72.500000000003936 #
+-1510 coedge $-1 -1 -1 $-1 $1106 $1748 $1110 $1513 forward $1095 $-1 #
+-1511 straight-curve $-1 -1 -1 $-1 -982.5 0 72.499999999996064 0 0 -1000 I I #
+-1512 point $-1 -1 -1 $-1 -982.5 0 -72.500000000003936 #
+-1513 edge $-1 -1 -1 $-1 $1750 1 $1111 0 $1510 $1755 forward @7 unknown F #
+-1514 point $-1 -1 -1 $-1 -982.5 0 72.499999999996064 #
+-1515 straight-curve $-1 -1 -1 $-1 -1127.5 -78 72.499999999996064 1000 0 0 I I #
+-1516 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1117 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1517 plane-surface $-1 -1 -1 $-1 -527.49999999999955 22 163.75000000000196 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1518 coedge $-1 -1 -1 $-1 $1120 $1133 $1121 $1520 forward $698 $-1 #
+-1519 coedge $-1 -1 -1 $-1 $1122 $1121 $1756 $1757 reversed $410 $-1 #
+-1520 edge $-1 -1 -1 $-1 $1758 1 $1521 0 $1518 $1759 forward @7 unknown F #
+-1521 vertex $-1 -1 -1 $-1 $1124 $1760 #
+-1522 straight-curve $-1 -1 -1 $-1 72.500000000000796 22 213.74999999999983 1000 0 -3.4914813388431333e-12 I I #
+-1523 coedge $-1 -1 -1 $-1 $1756 $1129 $1125 $1524 forward $1118 $-1 #
+-1524 edge $-1 -1 -1 $-1 $1131 1 $1525 0 $1523 $1761 forward @7 unknown F #
+-1525 vertex $-1 -1 -1 $-1 $1524 $1762 #
+-1526 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 44 213.75000000000401 0 -1000 0 I I #
+-1527 point $-1 -1 -1 $-1 -1127.4999999999991 22 213.75000000000401 #
+-1528 coedge $-1 -1 -1 $-1 $1129 $1756 $1133 $1531 forward $1118 $-1 #
+-1529 straight-curve $-1 -1 -1 $-1 72.500000000000341 44 113.74999999999983 -1000 0 3.4914813388431333e-12 I I #
+-1530 point $-1 -1 -1 $-1 -1127.4999999999995 44 113.75000000000401 #
+-1531 edge $-1 -1 -1 $-1 $1758 1 $1134 0 $1528 $1763 forward @7 unknown F #
+-1532 point $-1 -1 -1 $-1 72.500000000000341 44 113.74999999999983 #
+-1533 straight-curve $-1 -1 -1 $-1 72.500000000000796 22 213.74999999999983 -3.4914813388431333e-12 0 -1000 I I #
+-1534 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1140 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1535 plane-surface $-1 -1 -1 $-1 -527.5000000000008 22 -163.74999999999807 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1536 coedge $-1 -1 -1 $-1 $1143 $1156 $1144 $1538 forward $716 $-1 #
+-1537 coedge $-1 -1 -1 $-1 $1145 $1144 $1764 $1765 reversed $419 $-1 #
+-1538 edge $-1 -1 -1 $-1 $1766 1 $1539 0 $1536 $1767 forward @7 unknown F #
+-1539 vertex $-1 -1 -1 $-1 $1147 $1768 #
+-1540 straight-curve $-1 -1 -1 $-1 72.499999999999545 22 -113.7500000000002 1000 0 -3.4914813388431333e-12 I I #
+-1541 coedge $-1 -1 -1 $-1 $1764 $1152 $1148 $1542 forward $1141 $-1 #
+-1542 edge $-1 -1 -1 $-1 $1154 1 $1543 0 $1541 $1769 forward @7 unknown F #
+-1543 vertex $-1 -1 -1 $-1 $1542 $1770 #
+-1544 straight-curve $-1 -1 -1 $-1 -1127.5000000000005 44 -113.74999999999602 0 -1000 0 I I #
+-1545 point $-1 -1 -1 $-1 -1127.5000000000005 22 -113.74999999999602 #
+-1546 coedge $-1 -1 -1 $-1 $1152 $1764 $1156 $1549 forward $1141 $-1 #
+-1547 straight-curve $-1 -1 -1 $-1 72.499999999999091 44 -213.7500000000002 -1000 0 3.4914813388431333e-12 I I #
+-1548 point $-1 -1 -1 $-1 -1127.5000000000009 44 -213.74999999999602 #
+-1549 edge $-1 -1 -1 $-1 $1766 1 $1157 0 $1546 $1771 forward @7 unknown F #
+-1550 point $-1 -1 -1 $-1 72.499999999999091 44 -213.7500000000002 #
+-1551 straight-curve $-1 -1 -1 $-1 72.499999999999545 22 -113.7500000000002 -3.4914813388431333e-12 0 -1000 I I #
+-1552 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1163 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1553 plane-surface $-1 -1 -1 $-1 -527.49999999999898 -100 350.00000000000205 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1554 coedge $-1 -1 -1 $-1 $1166 $1179 $1167 $1556 forward $734 $-1 #
+-1555 coedge $-1 -1 -1 $-1 $1168 $1167 $1772 $1773 reversed $428 $-1 #
+-1556 edge $-1 -1 -1 $-1 $1774 1 $1557 0 $1554 $1775 forward @7 unknown F #
+-1557 vertex $-1 -1 -1 $-1 $1170 $1776 #
+-1558 straight-curve $-1 -1 -1 $-1 72.500000000001364 -100 399.99999999999989 1000 0 -3.4914813388431333e-12 I I #
+-1559 coedge $-1 -1 -1 $-1 $1772 $1175 $1171 $1560 forward $1164 $-1 #
+-1560 edge $-1 -1 -1 $-1 $1177 1 $1561 0 $1559 $1777 forward @7 unknown F #
+-1561 vertex $-1 -1 -1 $-1 $1560 $1778 #
+-1562 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000409 0 -1000 0 I I #
+-1563 point $-1 -1 -1 $-1 -1127.4999999999986 -100 400.00000000000409 #
+-1564 coedge $-1 -1 -1 $-1 $1175 $1772 $1179 $1567 forward $1164 $-1 #
+-1565 straight-curve $-1 -1 -1 $-1 72.500000000000909 -78 299.99999999999989 -1000 0 3.4914813388431333e-12 I I #
+-1566 point $-1 -1 -1 $-1 -1127.4999999999991 -78 300.00000000000409 #
+-1567 edge $-1 -1 -1 $-1 $1774 1 $1180 0 $1564 $1779 forward @7 unknown F #
+-1568 point $-1 -1 -1 $-1 72.500000000000909 -78 299.99999999999989 #
+-1569 straight-curve $-1 -1 -1 $-1 72.500000000001364 -100 399.99999999999989 -3.4914813388431333e-12 0 -1000 I I #
+-1570 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1186 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1571 plane-surface $-1 -1 -1 $-1 -527.50000000000114 -100 -349.99999999999801 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1572 coedge $-1 -1 -1 $-1 $1189 $1202 $1190 $1574 forward $752 $-1 #
+-1573 coedge $-1 -1 -1 $-1 $1191 $1190 $1780 $1781 reversed $437 $-1 #
+-1574 edge $-1 -1 -1 $-1 $1782 1 $1575 0 $1572 $1783 forward @7 unknown F #
+-1575 vertex $-1 -1 -1 $-1 $1193 $1784 #
+-1576 straight-curve $-1 -1 -1 $-1 72.499999999999204 -100 -300.00000000000011 1000 0 -3.4914813388431333e-12 I I #
+-1577 coedge $-1 -1 -1 $-1 $1780 $1198 $1194 $1578 forward $1187 $-1 #
+-1578 edge $-1 -1 -1 $-1 $1200 1 $1579 0 $1577 $1785 forward @7 unknown F #
+-1579 vertex $-1 -1 -1 $-1 $1578 $1786 #
+-1580 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 -78 -299.99999999999596 0 -1000 0 I I #
+-1581 point $-1 -1 -1 $-1 -1127.5000000000009 -100 -299.99999999999596 #
+-1582 coedge $-1 -1 -1 $-1 $1198 $1780 $1202 $1585 forward $1187 $-1 #
+-1583 straight-curve $-1 -1 -1 $-1 72.499999999998749 -78 -400.00000000000017 -1000 0 3.4914813388431333e-12 I I #
+-1584 point $-1 -1 -1 $-1 -1127.5000000000014 -78 -399.99999999999596 #
+-1585 edge $-1 -1 -1 $-1 $1782 1 $1203 0 $1582 $1787 forward @7 unknown F #
+-1586 point $-1 -1 -1 $-1 72.499999999998749 -78 -400.00000000000017 #
+-1587 straight-curve $-1 -1 -1 $-1 72.499999999999204 -100 -300.00000000000011 -3.4914813388431333e-12 0 -1000 I I #
+-1588 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1209 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1589 plane-surface $-1 -1 -1 $-1 -527.49999999999875 21.999999999999996 327.50000000000188 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1590 coedge $-1 -1 -1 $-1 $1212 $1225 $1213 $1592 forward $770 $-1 #
+-1591 coedge $-1 -1 -1 $-1 $1214 $1213 $1788 $1789 reversed $446 $-1 #
+-1592 edge $-1 -1 -1 $-1 $1790 1 $1593 0 $1590 $1791 forward @7 unknown F #
+-1593 vertex $-1 -1 -1 $-1 $1216 $1792 #
+-1594 straight-curve $-1 -1 -1 $-1 72.500000000001364 21.999999999999996 399.99999999999977 1000 0 -3.4914813388431333e-12 I I #
+-1595 coedge $-1 -1 -1 $-1 $1788 $1221 $1217 $1596 forward $1210 $-1 #
+-1596 edge $-1 -1 -1 $-1 $1223 1 $1597 0 $1595 $1793 forward @7 unknown F #
+-1597 vertex $-1 -1 -1 $-1 $1596 $1794 #
+-1598 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 44 400.00000000000398 0 -1000 0 I I #
+-1599 point $-1 -1 -1 $-1 -1127.4999999999986 21.999999999999996 400.00000000000398 #
+-1600 coedge $-1 -1 -1 $-1 $1221 $1788 $1225 $1603 forward $1210 $-1 #
+-1601 straight-curve $-1 -1 -1 $-1 72.500000000000909 44 254.99999999999977 -1000 0 3.4914813388431333e-12 I I #
+-1602 point $-1 -1 -1 $-1 -1127.4999999999991 44 255.00000000000398 #
+-1603 edge $-1 -1 -1 $-1 $1790 1 $1226 0 $1600 $1795 forward @7 unknown F #
+-1604 point $-1 -1 -1 $-1 72.500000000000909 44 254.99999999999977 #
+-1605 straight-curve $-1 -1 -1 $-1 72.500000000001364 21.999999999999996 399.99999999999977 -3.4914813388431333e-12 0 -1000 I I #
+-1606 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1232 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1607 plane-surface $-1 -1 -1 $-1 -527.49999999999989 22 1.8941378648292007e-12 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1608 coedge $-1 -1 -1 $-1 $1235 $1248 $1236 $1610 forward $788 $-1 #
+-1609 coedge $-1 -1 -1 $-1 $1237 $1236 $1796 $1797 reversed $455 $-1 #
+-1610 edge $-1 -1 -1 $-1 $1798 1 $1611 0 $1608 $1799 forward @7 unknown F #
+-1611 vertex $-1 -1 -1 $-1 $1239 $1800 #
+-1612 straight-curve $-1 -1 -1 $-1 72.500000000000227 22 72.499999999999787 1000 0 -3.4914813388431333e-12 I I #
+-1613 coedge $-1 -1 -1 $-1 $1796 $1244 $1240 $1614 forward $1233 $-1 #
+-1614 edge $-1 -1 -1 $-1 $1246 1 $1615 0 $1613 $1801 forward @7 unknown F #
+-1615 vertex $-1 -1 -1 $-1 $1614 $1802 #
+-1616 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 44 72.500000000003979 0 -1000 0 I I #
+-1617 point $-1 -1 -1 $-1 -1127.4999999999998 22 72.500000000003979 #
+-1618 coedge $-1 -1 -1 $-1 $1244 $1796 $1248 $1621 forward $1233 $-1 #
+-1619 straight-curve $-1 -1 -1 $-1 72.499999999999773 44 -72.500000000000199 -1000 0 3.4914813388431333e-12 I I #
+-1620 point $-1 -1 -1 $-1 -1127.5000000000002 44 -72.499999999996007 #
+-1621 edge $-1 -1 -1 $-1 $1798 1 $1249 0 $1618 $1803 forward @7 unknown F #
+-1622 point $-1 -1 -1 $-1 72.499999999999773 44 -72.500000000000199 #
+-1623 straight-curve $-1 -1 -1 $-1 72.500000000000227 22 72.499999999999787 -3.4914813388431333e-12 0 -1000 I I #
+-1624 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1255 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1625 plane-surface $-1 -1 -1 $-1 -527.50000000000102 21.999999999999996 -327.49999999999812 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1626 coedge $-1 -1 -1 $-1 $1258 $1271 $1259 $1628 forward $806 $-1 #
+-1627 coedge $-1 -1 -1 $-1 $1260 $1259 $1804 $1805 reversed $464 $-1 #
+-1628 edge $-1 -1 -1 $-1 $1806 1 $1629 0 $1626 $1807 forward @7 unknown F #
+-1629 vertex $-1 -1 -1 $-1 $1262 $1808 #
+-1630 straight-curve $-1 -1 -1 $-1 72.499999999999091 21.999999999999996 -255.00000000000023 1000 0 -3.4914813388431333e-12 I I #
+-1631 coedge $-1 -1 -1 $-1 $1804 $1267 $1263 $1632 forward $1256 $-1 #
+-1632 edge $-1 -1 -1 $-1 $1269 1 $1633 0 $1631 $1809 forward @7 unknown F #
+-1633 vertex $-1 -1 -1 $-1 $1632 $1810 #
+-1634 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 44 -254.99999999999602 0 -1000 0 I I #
+-1635 point $-1 -1 -1 $-1 -1127.5000000000009 21.999999999999996 -254.99999999999602 #
+-1636 coedge $-1 -1 -1 $-1 $1267 $1804 $1271 $1639 forward $1256 $-1 #
+-1637 straight-curve $-1 -1 -1 $-1 72.499999999998636 44 -400.00000000000023 -1000 0 3.4914813388431333e-12 I I #
+-1638 point $-1 -1 -1 $-1 -1127.5000000000014 44 -399.99999999999602 #
+-1639 edge $-1 -1 -1 $-1 $1806 1 $1272 0 $1636 $1811 forward @7 unknown F #
+-1640 point $-1 -1 -1 $-1 72.499999999998636 44 -400.00000000000023 #
+-1641 straight-curve $-1 -1 -1 $-1 72.499999999999091 21.999999999999996 -255.00000000000023 -3.4914813388431333e-12 0 -1000 I I #
+-1642 integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1278 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 Yükseklik-Ekstrüzyon1 0 #
+-1643 plane-surface $-1 -1 -1 $-1 -527.49999999999989 -100 -2.095545958979983e-12 0 -1 -0 -1000 0 3.4914813388431333e-12 forward_v I I I I #
+-1644 coedge $-1 -1 -1 $-1 $1281 $1294 $1282 $1646 forward $824 $-1 #
+-1645 coedge $-1 -1 -1 $-1 $1283 $1282 $1812 $1813 reversed $473 $-1 #
+-1646 edge $-1 -1 -1 $-1 $1814 1 $1647 0 $1644 $1815 forward @7 unknown F #
+-1647 vertex $-1 -1 -1 $-1 $1285 $1816 #
+-1648 straight-curve $-1 -1 -1 $-1 72.500000000000227 -100 72.499999999995808 1000 0 -3.4914813388431333e-12 I I #
+-1649 coedge $-1 -1 -1 $-1 $1812 $1290 $1286 $1650 forward $1279 $-1 #
+-1650 edge $-1 -1 -1 $-1 $1292 1 $1651 0 $1649 $1817 forward @7 unknown F #
+-1651 vertex $-1 -1 -1 $-1 $1650 $1818 #
+-1652 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 -78 72.5 0 -1000 0 I I #
+-1653 point $-1 -1 -1 $-1 -1127.4999999999998 -100 72.5 #
+-1654 coedge $-1 -1 -1 $-1 $1290 $1812 $1294 $1657 forward $1279 $-1 #
+-1655 straight-curve $-1 -1 -1 $-1 72.499999999999773 -78 -72.500000000004178 -1000 0 3.4914813388431333e-12 I I #
+-1656 point $-1 -1 -1 $-1 -1127.5000000000002 -78 -72.499999999999986 #
+-1657 edge $-1 -1 -1 $-1 $1814 1 $1295 0 $1654 $1819 forward @7 unknown F #
+-1658 point $-1 -1 -1 $-1 72.499999999999773 -78 -72.500000000004178 #
+-1659 straight-curve $-1 -1 -1 $-1 72.500000000000227 -100 72.499999999995808 -3.4914813388431333e-12 0 -1000 I I #
+-1660 coedge $-1 -1 -1 $-1 $1312 $1307 $1303 $1661 forward $842 $-1 #
+-1661 edge $-1 -1 -1 $-1 $1309 1 $1662 0 $1660 $1820 forward @7 unknown F #
+-1662 vertex $-1 -1 -1 $-1 $1661 $1821 #
+-1663 straight-curve $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 -0 -1000 -0 I I #
+-1664 point $-1 -1 -1 $-1 -72.500000000000028 0 400.00000000000006 #
+-1665 straight-curve $-1 -1 -1 $-1 -72.500000000000028 22 -399.99999999999994 -1000 -0 -0 I I #
+-1666 point $-1 -1 -1 $-1 -72.500000000000028 22 -399.99999999999994 #
+-1667 straight-curve $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 1000 0 0 I I #
+-1668 coedge $-1 -1 -1 $-1 $1330 $1325 $1321 $1669 forward $865 $-1 #
+-1669 edge $-1 -1 -1 $-1 $1327 1 $1670 0 $1668 $1822 forward @7 unknown F #
+-1670 vertex $-1 -1 -1 $-1 $1669 $1823 #
+-1671 straight-curve $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 -0 -1000 -0 I I #
+-1672 point $-1 -1 -1 $-1 -1127.5 0 400.00000000000011 #
+-1673 straight-curve $-1 -1 -1 $-1 -1127.5 22 -399.99999999999989 -1000 -0 -0 I I #
+-1674 point $-1 -1 -1 $-1 -1127.5 22 -399.99999999999989 #
+-1675 straight-curve $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 1000 0 0 I I #
+-1676 coedge $-1 -1 -1 $-1 $1348 $1343 $1339 $1677 forward $888 $-1 #
+-1677 edge $-1 -1 -1 $-1 $1345 1 $1678 0 $1676 $1824 forward @7 unknown F #
+-1678 vertex $-1 -1 -1 $-1 $1677 $1825 #
+-1679 straight-curve $-1 -1 -1 $-1 -600.00000000000011 22 400 -0 -1000 -0 I I #
+-1680 point $-1 -1 -1 $-1 -600.00000000000011 0 400 #
+-1681 straight-curve $-1 -1 -1 $-1 -600.00000000000011 22 -400 -1000 -0 -0 I I #
+-1682 point $-1 -1 -1 $-1 -600.00000000000011 22 -400 #
+-1683 straight-curve $-1 -1 -1 $-1 -600.00000000000011 22 400 1000 0 0 I I #
+-1684 coedge $-1 -1 -1 $-1 $1366 $1361 $1357 $1685 forward $911 $-1 #
+-1685 edge $-1 -1 -1 $-1 $1363 1 $1686 0 $1684 $1826 forward @7 unknown F #
+-1686 vertex $-1 -1 -1 $-1 $1685 $1827 #
+-1687 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 0 -1000 -0 I I #
+-1688 point $-1 -1 -1 $-1 -72.500000000000028 -78 -399.99999999999994 #
+-1689 straight-curve $-1 -1 -1 $-1 72.499999999999972 0 -399.99999999999994 0 -0 -1000 I I #
+-1690 point $-1 -1 -1 $-1 72.499999999999972 0 -399.99999999999994 #
+-1691 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 0 0 1000 I I #
+-1692 coedge $-1 -1 -1 $-1 $1384 $1379 $1375 $1693 forward $934 $-1 #
+-1693 edge $-1 -1 -1 $-1 $1381 1 $1694 0 $1692 $1828 forward @7 unknown F #
+-1694 vertex $-1 -1 -1 $-1 $1693 $1829 #
+-1695 straight-curve $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 0 -1000 -0 I I #
+-1696 point $-1 -1 -1 $-1 -1127.5 -78.000000000000014 -399.99999999999994 #
+-1697 straight-curve $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -399.99999999999994 0 -0 -1000 I I #
+-1698 point $-1 -1 -1 $-1 -982.5 -1.4210854715202004e-14 -399.99999999999994 #
+-1699 straight-curve $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 0 0 1000 I I #
+-1700 coedge $-1 -1 -1 $-1 $1402 $1397 $1393 $1701 forward $957 $-1 #
+-1701 edge $-1 -1 -1 $-1 $1399 1 $1702 0 $1700 $1830 forward @7 unknown F #
+-1702 vertex $-1 -1 -1 $-1 $1701 $1831 #
+-1703 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 -0 -1000 0 I I #
+-1704 point $-1 -1 -1 $-1 -455.00000000000011 -78 -300.00000000000006 #
+-1705 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -300.00000000000006 -0 -0 1000 I I #
+-1706 point $-1 -1 -1 $-1 -600.00000000000011 0 -300.00000000000006 #
+-1707 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 0 0 -1000 I I #
+-1708 coedge $-1 -1 -1 $-1 $1420 $1415 $1411 $1709 forward $980 $-1 #
+-1709 edge $-1 -1 -1 $-1 $1417 1 $1710 0 $1708 $1832 forward @7 unknown F #
+-1710 vertex $-1 -1 -1 $-1 $1709 $1833 #
+-1711 straight-curve $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 0 -1000 0 I I #
+-1712 point $-1 -1 -1 $-1 -982.49999999999875 -78 400.00000000000352 #
+-1713 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 0 400.00000000000404 3.4914813388431333e-12 -0 1000 I I #
+-1714 point $-1 -1 -1 $-1 -1127.4999999999986 0 400.00000000000404 #
+-1715 straight-curve $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 -3.4914813388431333e-12 0 -1000 I I #
+-1716 coedge $-1 -1 -1 $-1 $1438 $1433 $1429 $1717 forward $1003 $-1 #
+-1717 edge $-1 -1 -1 $-1 $1435 1 $1718 0 $1716 $1834 forward @7 unknown F #
+-1718 vertex $-1 -1 -1 $-1 $1717 $1835 #
+-1719 straight-curve $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 0 -1000 0 I I #
+-1720 point $-1 -1 -1 $-1 -454.99999999999869 -78 400.00000000000159 #
+-1721 straight-curve $-1 -1 -1 $-1 -599.99999999999864 0 400.00000000000205 3.4914813388431333e-12 -0 1000 I I #
+-1722 point $-1 -1 -1 $-1 -599.99999999999864 0 400.00000000000205 #
+-1723 straight-curve $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 -3.4914813388431333e-12 0 -1000 I I #
+-1724 coedge $-1 -1 -1 $-1 $1456 $1451 $1447 $1725 forward $1026 $-1 #
+-1725 edge $-1 -1 -1 $-1 $1453 1 $1726 0 $1724 $1836 forward @7 unknown F #
+-1726 vertex $-1 -1 -1 $-1 $1725 $1837 #
+-1727 straight-curve $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 0 -1000 0 I I #
+-1728 point $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999966 #
+-1729 straight-curve $-1 -1 -1 $-1 -72.499999999998622 0 400.00000000000017 3.4914813388431333e-12 -0 1000 I I #
+-1730 point $-1 -1 -1 $-1 -72.499999999998622 0 400.00000000000017 #
+-1731 straight-curve $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 -3.4914813388431333e-12 0 -1000 I I #
+-1732 coedge $-1 -1 -1 $-1 $1474 $1469 $1465 $1733 forward $1049 $-1 #
+-1733 edge $-1 -1 -1 $-1 $1471 1 $1734 0 $1732 $1838 forward @7 unknown F #
+-1734 vertex $-1 -1 -1 $-1 $1733 $1839 #
+-1735 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 72.5 -0 -1000 -0 I I #
+-1736 point $-1 -1 -1 $-1 -600.00000000000011 -78 72.5 #
+-1737 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 -72.5 -1000 -0 -0 I I #
+-1738 point $-1 -1 -1 $-1 -600.00000000000011 0 -72.5 #
+-1739 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 72.5 1000 0 0 I I #
+-1740 coedge $-1 -1 -1 $-1 $1492 $1487 $1483 $1741 forward $1072 $-1 #
+-1741 edge $-1 -1 -1 $-1 $1489 1 $1742 0 $1740 $1840 forward @7 unknown F #
+-1742 vertex $-1 -1 -1 $-1 $1741 $1841 #
+-1743 straight-curve $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 -0 -1000 -0 I I #
+-1744 point $-1 -1 -1 $-1 -72.500000000000014 -78 72.500000000000242 #
+-1745 straight-curve $-1 -1 -1 $-1 -72.500000000000014 0 -72.499999999999758 -1000 -0 -0 I I #
+-1746 point $-1 -1 -1 $-1 -72.500000000000014 0 -72.499999999999758 #
+-1747 straight-curve $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 1000 0 0 I I #
+-1748 coedge $-1 -1 -1 $-1 $1510 $1505 $1501 $1749 forward $1095 $-1 #
+-1749 edge $-1 -1 -1 $-1 $1507 1 $1750 0 $1748 $1842 forward @7 unknown F #
+-1750 vertex $-1 -1 -1 $-1 $1749 $1843 #
+-1751 straight-curve $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 -0 -1000 -0 I I #
+-1752 point $-1 -1 -1 $-1 -1127.5 -78 72.499999999996064 #
+-1753 straight-curve $-1 -1 -1 $-1 -1127.5 0 -72.500000000003936 -1000 -0 -0 I I #
+-1754 point $-1 -1 -1 $-1 -1127.5 0 -72.500000000003936 #
+-1755 straight-curve $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 1000 0 0 I I #
+-1756 coedge $-1 -1 -1 $-1 $1528 $1523 $1519 $1757 forward $1118 $-1 #
+-1757 edge $-1 -1 -1 $-1 $1525 1 $1758 0 $1756 $1844 forward @7 unknown F #
+-1758 vertex $-1 -1 -1 $-1 $1757 $1845 #
+-1759 straight-curve $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 0 -1000 0 I I #
+-1760 point $-1 -1 -1 $-1 72.500000000000796 22 213.74999999999983 #
+-1761 straight-curve $-1 -1 -1 $-1 -1127.4999999999991 44 213.75000000000401 3.4914813388431333e-12 -0 1000 I I #
+-1762 point $-1 -1 -1 $-1 -1127.4999999999991 44 213.75000000000401 #
+-1763 straight-curve $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 -3.4914813388431333e-12 0 -1000 I I #
+-1764 coedge $-1 -1 -1 $-1 $1546 $1541 $1537 $1765 forward $1141 $-1 #
+-1765 edge $-1 -1 -1 $-1 $1543 1 $1766 0 $1764 $1846 forward @7 unknown F #
+-1766 vertex $-1 -1 -1 $-1 $1765 $1847 #
+-1767 straight-curve $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 0 -1000 0 I I #
+-1768 point $-1 -1 -1 $-1 72.499999999999545 22 -113.7500000000002 #
+-1769 straight-curve $-1 -1 -1 $-1 -1127.5000000000005 44 -113.74999999999602 3.4914813388431333e-12 -0 1000 I I #
+-1770 point $-1 -1 -1 $-1 -1127.5000000000005 44 -113.74999999999602 #
+-1771 straight-curve $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 -3.4914813388431333e-12 0 -1000 I I #
+-1772 coedge $-1 -1 -1 $-1 $1564 $1559 $1555 $1773 forward $1164 $-1 #
+-1773 edge $-1 -1 -1 $-1 $1561 1 $1774 0 $1772 $1848 forward @7 unknown F #
+-1774 vertex $-1 -1 -1 $-1 $1773 $1849 #
+-1775 straight-curve $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 0 -1000 0 I I #
+-1776 point $-1 -1 -1 $-1 72.500000000001364 -100 399.99999999999989 #
+-1777 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000409 3.4914813388431333e-12 -0 1000 I I #
+-1778 point $-1 -1 -1 $-1 -1127.4999999999986 -78 400.00000000000409 #
+-1779 straight-curve $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 -3.4914813388431333e-12 0 -1000 I I #
+-1780 coedge $-1 -1 -1 $-1 $1582 $1577 $1573 $1781 forward $1187 $-1 #
+-1781 edge $-1 -1 -1 $-1 $1579 1 $1782 0 $1780 $1850 forward @7 unknown F #
+-1782 vertex $-1 -1 -1 $-1 $1781 $1851 #
+-1783 straight-curve $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 0 -1000 0 I I #
+-1784 point $-1 -1 -1 $-1 72.499999999999204 -100 -300.00000000000011 #
+-1785 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 -78 -299.99999999999596 3.4914813388431333e-12 -0 1000 I I #
+-1786 point $-1 -1 -1 $-1 -1127.5000000000009 -78 -299.99999999999596 #
+-1787 straight-curve $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 -3.4914813388431333e-12 0 -1000 I I #
+-1788 coedge $-1 -1 -1 $-1 $1600 $1595 $1591 $1789 forward $1210 $-1 #
+-1789 edge $-1 -1 -1 $-1 $1597 1 $1790 0 $1788 $1852 forward @7 unknown F #
+-1790 vertex $-1 -1 -1 $-1 $1789 $1853 #
+-1791 straight-curve $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 0 -1000 0 I I #
+-1792 point $-1 -1 -1 $-1 72.500000000001364 21.999999999999996 399.99999999999977 #
+-1793 straight-curve $-1 -1 -1 $-1 -1127.4999999999986 44 400.00000000000398 3.4914813388431333e-12 -0 1000 I I #
+-1794 point $-1 -1 -1 $-1 -1127.4999999999986 44 400.00000000000398 #
+-1795 straight-curve $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 -3.4914813388431333e-12 0 -1000 I I #
+-1796 coedge $-1 -1 -1 $-1 $1618 $1613 $1609 $1797 forward $1233 $-1 #
+-1797 edge $-1 -1 -1 $-1 $1615 1 $1798 0 $1796 $1854 forward @7 unknown F #
+-1798 vertex $-1 -1 -1 $-1 $1797 $1855 #
+-1799 straight-curve $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 0 -1000 0 I I #
+-1800 point $-1 -1 -1 $-1 72.500000000000227 22 72.499999999999787 #
+-1801 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 44 72.500000000003979 3.4914813388431333e-12 -0 1000 I I #
+-1802 point $-1 -1 -1 $-1 -1127.4999999999998 44 72.500000000003979 #
+-1803 straight-curve $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 -3.4914813388431333e-12 0 -1000 I I #
+-1804 coedge $-1 -1 -1 $-1 $1636 $1631 $1627 $1805 forward $1256 $-1 #
+-1805 edge $-1 -1 -1 $-1 $1633 1 $1806 0 $1804 $1856 forward @7 unknown F #
+-1806 vertex $-1 -1 -1 $-1 $1805 $1857 #
+-1807 straight-curve $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 0 -1000 0 I I #
+-1808 point $-1 -1 -1 $-1 72.499999999999091 21.999999999999996 -255.00000000000023 #
+-1809 straight-curve $-1 -1 -1 $-1 -1127.5000000000009 44 -254.99999999999602 3.4914813388431333e-12 -0 1000 I I #
+-1810 point $-1 -1 -1 $-1 -1127.5000000000009 44 -254.99999999999602 #
+-1811 straight-curve $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 -3.4914813388431333e-12 0 -1000 I I #
+-1812 coedge $-1 -1 -1 $-1 $1654 $1649 $1645 $1813 forward $1279 $-1 #
+-1813 edge $-1 -1 -1 $-1 $1651 1 $1814 0 $1812 $1858 forward @7 unknown F #
+-1814 vertex $-1 -1 -1 $-1 $1813 $1859 #
+-1815 straight-curve $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 0 -1000 0 I I #
+-1816 point $-1 -1 -1 $-1 72.500000000000227 -100 72.499999999995808 #
+-1817 straight-curve $-1 -1 -1 $-1 -1127.4999999999998 -78 72.5 3.4914813388431333e-12 -0 1000 I I #
+-1818 point $-1 -1 -1 $-1 -1127.4999999999998 -78 72.5 #
+-1819 straight-curve $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 -3.4914813388431333e-12 0 -1000 I I #
+-1820 straight-curve $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 0 0 1000 I I #
+-1821 point $-1 -1 -1 $-1 -72.500000000000028 22 400.00000000000006 #
+-1822 straight-curve $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 0 0 1000 I I #
+-1823 point $-1 -1 -1 $-1 -1127.5 22 400.00000000000011 #
+-1824 straight-curve $-1 -1 -1 $-1 -600.00000000000011 22 400 0 0 1000 I I #
+-1825 point $-1 -1 -1 $-1 -600.00000000000011 22 400 #
+-1826 straight-curve $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 -1000 0 0 I I #
+-1827 point $-1 -1 -1 $-1 -72.500000000000028 0 -399.99999999999994 #
+-1828 straight-curve $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 -1000 0 0 I I #
+-1829 point $-1 -1 -1 $-1 -1127.5 -1.4210854715202004e-14 -399.99999999999994 #
+-1830 straight-curve $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 1000 0 0 I I #
+-1831 point $-1 -1 -1 $-1 -455.00000000000011 0 -300.00000000000006 #
+-1832 straight-curve $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 1000 0 -3.4914813388431333e-12 I I #
+-1833 point $-1 -1 -1 $-1 -982.49999999999875 0 400.00000000000352 #
+-1834 straight-curve $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 1000 0 -3.4914813388431333e-12 I I #
+-1835 point $-1 -1 -1 $-1 -454.99999999999869 0 400.00000000000159 #
+-1836 straight-curve $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 1000 0 -3.4914813388431333e-12 I I #
+-1837 point $-1 -1 -1 $-1 72.500000000001364 0 399.99999999999966 #
+-1838 straight-curve $-1 -1 -1 $-1 -600.00000000000011 0 72.5 0 0 1000 I I #
+-1839 point $-1 -1 -1 $-1 -600.00000000000011 0 72.5 #
+-1840 straight-curve $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 0 0 1000 I I #
+-1841 point $-1 -1 -1 $-1 -72.500000000000014 0 72.500000000000242 #
+-1842 straight-curve $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 0 0 1000 I I #
+-1843 point $-1 -1 -1 $-1 -1127.5 0 72.499999999996064 #
+-1844 straight-curve $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 1000 0 -3.4914813388431333e-12 I I #
+-1845 point $-1 -1 -1 $-1 72.500000000000796 44 213.74999999999983 #
+-1846 straight-curve $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 1000 0 -3.4914813388431333e-12 I I #
+-1847 point $-1 -1 -1 $-1 72.499999999999545 44 -113.7500000000002 #
+-1848 straight-curve $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 1000 0 -3.4914813388431333e-12 I I #
+-1849 point $-1 -1 -1 $-1 72.500000000001364 -78 399.99999999999989 #
+-1850 straight-curve $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 1000 0 -3.4914813388431333e-12 I I #
+-1851 point $-1 -1 -1 $-1 72.499999999999204 -78 -300.00000000000011 #
+-1852 straight-curve $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 1000 0 -3.4914813388431333e-12 I I #
+-1853 point $-1 -1 -1 $-1 72.500000000001364 44 399.99999999999977 #
+-1854 straight-curve $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 1000 0 -3.4914813388431333e-12 I I #
+-1855 point $-1 -1 -1 $-1 72.500000000000227 44 72.499999999999787 #
+-1856 straight-curve $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 1000 0 -3.4914813388431333e-12 I I #
+-1857 point $-1 -1 -1 $-1 72.499999999999091 44 -255.00000000000023 #
+-1858 straight-curve $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 1000 0 -3.4914813388431333e-12 I I #
+-1859 point $-1 -1 -1 $-1 72.500000000000227 -78 72.499999999995808 #
+End-of-ACIS-data 
